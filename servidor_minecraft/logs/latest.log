@@ -2556,3 +2556,16 @@ BCLib - The End  BiomeSource (719d7c43)
 [16:55:21] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
 [16:55:21] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [16:55:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[16:58:04] [Server thread/WARN]: Zebra (vehicle of Juanchole10) moved wrongly! 0.3767184199893414
+[16:58:04] [Server thread/WARN]: Zebra (vehicle of Juanchole10) moved wrongly! 0.3895833194255829
+[16:58:04] [Server thread/WARN]: Zebra (vehicle of Juanchole10) moved wrongly! 0.3895833194255829
+[16:58:04] [Server thread/WARN]: Zebra (vehicle of Juanchole10) moved wrongly! 0.3895833194255829
+[16:58:04] [Server thread/WARN]: Zebra (vehicle of Juanchole10) moved wrongly! 0.5926128096042689
+[16:58:15] [Server thread/INFO]: elpatomaster has made the advancement [Voluntary Exile]
+[16:58:16] [Server thread/INFO]: elpatomaster has made the advancement [Archer´s Paths]
+[16:58:27] [Server thread/INFO]: Villager class_1646['Rudolph'/1806, l='ServerLevel[world]', x=57.99, y=249.00, z=1081.59] died, message: 'Rudolph hit the ground too hard'
+[16:58:27] [Server thread/INFO]: Named entity class_1646['Rudolph'/1806, l='ServerLevel[world]', x=57.99, y=249.00, z=1081.59] died: Rudolph fell from a high place
+[16:58:44] [Server thread/INFO]: elpatomaster has made the advancement [Not Today, Thank You]
+[16:59:11] [Server thread/INFO]: Juanchole10 has made the advancement [Close Quarters]
+[17:05:03] [Server thread/INFO]: Juanchole10 has made the advancement [World of illusion]
+[17:07:43] [Server thread/INFO]: Juanchole10 has made the advancement [Source of Evil]
