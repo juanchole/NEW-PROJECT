@@ -2575,3 +2575,18 @@ BCLib - The End  BiomeSource (719d7c43)
 [17:13:18] [Server thread/INFO]: Juanchole10 has made the advancement [Tech Reborn]
 [17:14:15] [Server thread/INFO]: elpatomaster has made the advancement [Best Friends Forever]
 [17:15:16] [Server thread/INFO]: Juanchole10 has made the advancement [Quite the Renovation]
+[17:21:17] [Server thread/INFO]: Juanchole10 was killed by Witch using magic
+[17:21:34] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[17:22:20] [Server thread/INFO]: Villager class_1646['Dominique'/19, l='ServerLevel[world]', x=93.02, y=77.00, z=7.70] died, message: 'Dominique hit the ground too hard'
+[17:22:20] [Server thread/INFO]: Named entity class_1646['Dominique'/19, l='ServerLevel[world]', x=93.02, y=77.00, z=7.70] died: Dominique fell from a high place
+[17:22:42] [Server thread/INFO]: Juanchole10 has made the advancement [When in Rome]
+[17:25:17] [Server thread/INFO]: Villager class_1646['Vern'/2055, l='ServerLevel[world]', x=89.69, y=107.00, z=1426.56] died, message: 'Vern was slain by Vindicator'
+[17:25:17] [Server thread/INFO]: Named entity class_1646['Vern'/2055, l='ServerLevel[world]', x=89.69, y=107.00, z=1426.56] died: Vern was slain by Vindicator
+[17:26:53] [Server thread/INFO]: elpatomaster was killed by magic
+[17:26:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:27:21] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 97, 110, 1431, minecraft:overworld
+[17:27:31] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[17:27:32] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:27:41] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 120, 109, 1425, minecraft:overworld
+[17:27:53] [Server thread/INFO]: elpatomaster has made the advancement [I was here, i lived, i..]
+[17:28:12] [Server thread/INFO]: elpatomaster has made the advancement [World of illusion]

@@ -581,12 +581,14 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
+      "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
       "deciduous_forest": "2025-02-26 16:19:59 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
+      "rainforest": "2025-02-26 17:16:45 +0000",
       "lupine_plains": "2025-02-26 05:03:09 +0000"
     },
     "done": false
@@ -594,12 +596,14 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
+      "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
       "deciduous_forest": "2025-02-26 16:19:59 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
+      "rainforest": "2025-02-26 17:16:45 +0000",
       "lupine_plains": "2025-02-26 05:03:09 +0000"
     },
     "done": false
@@ -614,6 +618,7 @@
     "criteria": {
       "minecraft:stony_peaks": "2025-02-26 16:20:09 +0000",
       "minecraft:river": "2025-02-26 05:04:09 +0000",
+      "minecraft:desert": "2025-02-26 17:17:32 +0000",
       "minecraft:savanna": "2025-02-26 16:18:02 +0000",
       "minecraft:plains": "2025-02-26 15:51:22 +0000"
     },
@@ -2772,7 +2777,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-26 16:58:15 +0000",
+      "minecraft:ravager": "2025-02-26 17:23:52 +0000",
+      "minecraft:vindicator": "2025-02-26 17:19:25 +0000",
       "minecraft:piglin_brute": "2025-02-26 16:06:23 +0000",
+      "minecraft:witch": "2025-02-26 17:24:05 +0000",
       "minecraft:piglin": "2025-02-26 16:06:11 +0000",
       "minecraft:silverfish": "2025-02-26 16:26:10 +0000",
       "minecraft:zombie": "2025-02-26 15:46:33 +0000"
@@ -2828,7 +2836,9 @@
       "apple": "2025-02-26 16:30:50 +0000",
       "mutton": "2025-02-26 16:58:22 +0000",
       "bread": "2025-02-26 15:46:52 +0000",
+      "cookie": "2025-02-26 17:22:39 +0000",
       "glow_berries": "2025-02-26 16:56:22 +0000",
+      "cooked_chicken": "2025-02-26 17:20:18 +0000",
       "carrot": "2025-02-26 17:02:39 +0000"
     },
     "done": false
@@ -8177,9 +8187,21 @@
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 17:20:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8207,6 +8229,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -8219,15 +8247,51 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-26 17:09:54 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-26 17:20:16 +0000"
     },
     "done": true
   },
@@ -8255,6 +8319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
@@ -8270,6 +8340,12 @@
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8321,9 +8397,21 @@
     },
     "done": true
   },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8333,9 +8421,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-02-26 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8357,6 +8463,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-02-26 17:01:14 +0000"
@@ -8369,6 +8481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -8378,6 +8496,24 @@
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-02-26 17:00:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-02-26 17:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8396,6 +8532,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8429,15 +8571,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-26 16:58:44 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-26 17:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8468,6 +8628,18 @@
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8543,6 +8715,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
@@ -8552,6 +8730,12 @@
   "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-02-26 16:56:19 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8576,6 +8760,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8639,6 +8829,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_kiln": {
     "criteria": {
       "has_copper_block": "2025-02-26 17:09:49 +0000"
@@ -8651,6 +8847,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
@@ -8660,6 +8862,24 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8693,6 +8913,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -8705,9 +8931,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 17:20:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-02-26 17:18:39 +0000"
     },
     "done": true
   },
@@ -8720,6 +8958,12 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8747,9 +8991,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8777,9 +9033,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
@@ -8822,6 +9090,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-26 17:20:16 +0000"
     },
     "done": true
   },
