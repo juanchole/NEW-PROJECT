@@ -2627,3 +2627,32 @@ BCLib - The End  BiomeSource (719d7c43)
 [17:36:06] [Server thread/INFO]: Named entity class_1646['Amos'/29303, l='ServerLevel[world]', x=87.59, y=115.00, z=1403.47] died: Amos was slain by Vindicator
 [17:37:03] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
 [17:38:05] [Server thread/INFO]: [elpatomaster: Teleported Juanchole10 to elpatomaster]
+[17:40:22] [Server thread/INFO]: elpatomaster has made the advancement [Heart of the Machine]
+[17:40:51] [Server thread/INFO]: Juanchole10 claimed a grave belonging to Juanchole10 at 212, 62, 1238, minecraft:overworld
+[17:41:26] [Server thread/INFO]: elpatomaster has made the advancement [Penteconter]
+[17:41:40] [Server thread/INFO]: Juanchole10 drowned
+[17:41:46] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[17:42:22] [Server thread/INFO]: [elpatomaster: Teleported Juanchole10 to elpatomaster]
+[17:42:22] [Server thread/INFO]: Villager class_1646['Burton'/9, l='ServerLevel[world]', x=55.60, y=247.00, z=69.96] died, message: 'Burton hit the ground too hard'
+[17:42:22] [Server thread/INFO]: Named entity class_1646['Burton'/9, l='ServerLevel[world]', x=55.60, y=247.00, z=69.96] died: Burton fell from a high place
+[17:43:16] [Server thread/INFO]: Villager class_1646['Efren'/30159, l='ServerLevel[world]', x=36.86, y=83.00, z=1125.64] died, message: 'Efren hit the ground too hard'
+[17:43:16] [Server thread/INFO]: Named entity class_1646['Efren'/30159, l='ServerLevel[world]', x=36.86, y=83.00, z=1125.64] died: Efren fell from a high place
+[17:43:55] [Server thread/INFO]: Juanchole10 lost connection: Disconnected
+[17:43:55] [Server thread/INFO]: Juanchole10 left the game
+[17:43:55] [Server thread/INFO]: remove player wand
+[17:43:55] [Server thread/INFO]: Updating all forceload tickets for ac1fe722-2f3c-3b58-a94a-e5d06a7b016d
+[17:43:55] [Server thread/WARN]: handleDisconnection() called twice
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.2760181951114191
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.53153017225236
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.6682495368613672
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.7414053429736214
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.7805495562547549
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.8014948443301364
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.812702250375196
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.818699109898489
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.8219079098648763
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.8219079098648763
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 1.0785620700410163
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 1.472546754195264
+[17:43:56] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 2.5104944420013453
+[17:48:27] [Server thread/INFO]: elpatomaster has made the advancement [Novice Spellcaster]
