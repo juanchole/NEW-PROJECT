@@ -11,6 +11,72 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-02-26 05:03:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-02-26 05:03:04 +0000",
@@ -21,18 +87,6 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-02-26 05:03:09 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-02-26 05:03:09 +0000"
     },
     "done": true
   },
@@ -57,12 +111,6 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -96,18 +144,6 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-02-26 05:03:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "lupine_plains": "2025-02-26 05:03:09 +0000"
-    },
-    "done": false
-  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-02-26 05:03:04 +0000"
@@ -127,12 +163,6 @@
       "has_sodium": "2025-02-26 05:03:04 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "lupine_plains": "2025-02-26 05:03:09 +0000"
-    },
-    "done": false
   },
   "advancednetherite:recipes/netherite_emerald_block": {
     "criteria": {
@@ -171,12 +201,6 @@
     },
     "done": true
   },
-  "archon:root": {
-    "criteria": {
-      "tick": "2025-02-26 05:03:03 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-02-26 05:03:04 +0000"
@@ -192,12 +216,6 @@
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:root": {
-    "criteria": {
-      "instant_granted": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -252,18 +270,6 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
     "criteria": {
       "has_fur_armor": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-02-26 05:04:09 +0000"
-    },
-    "done": false
-  },
-  "things:root": {
-    "criteria": {
-      "tick": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -339,12 +345,6 @@
     },
     "done": true
   },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2025-02-26 05:03:03 +0000"
-    },
-    "done": true
-  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-02-26 05:03:04 +0000"
@@ -397,12 +397,6 @@
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:root": {
-    "criteria": {
-      "always": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -488,12 +482,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-02-26 05:03:03 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-02-26 05:03:04 +0000",
@@ -504,12 +492,6 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:root": {
-    "criteria": {
-      "always": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -524,12 +506,6 @@
       "has_wit": "2025-02-26 05:03:04 +0000",
       "has_wpt": "2025-02-26 05:03:04 +0000",
       "has_wct": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-02-26 05:03:09 +0000"
     },
     "done": true
   },
@@ -559,21 +535,9 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-02-26 05:03:03 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:03:04 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-02-26 05:03:03 +0000"
     },
     "done": true
   },
@@ -599,6 +563,79 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-26 05:03:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-02-26 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-02-26 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "lupine_plains": "2025-02-26 05:03:09 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "lupine_plains": "2025-02-26 05:03:09 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-26 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-02-26 05:04:09 +0000"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-26 15:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-02-26 15:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-02-26 15:43:52 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-26 15:40:40 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-26 15:40:40 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-26 15:40:40 +0000",
+      "inv_changed-diamond": "2025-02-26 15:40:40 +0000"
     },
     "done": true
   },

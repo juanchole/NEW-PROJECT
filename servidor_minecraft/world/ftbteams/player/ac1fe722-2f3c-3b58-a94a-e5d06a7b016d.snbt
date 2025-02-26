@@ -1,0 +1,17 @@
+{
+	id: "ac1fe722-2f3c-3b58-a94a-e5d06a7b016d"
+	type: "player"
+	player_name: "Juanchole10"
+	ranks: {
+		ac1fe722-2f3c-3b58-a94a-e5d06a7b016d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Juanchole10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5989FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
