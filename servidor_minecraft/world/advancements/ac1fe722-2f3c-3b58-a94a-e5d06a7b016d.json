@@ -7610,18 +7610,6 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/red_string_comparator": {
-    "criteria": {
-      "has_base_block": "2025-02-26 16:40:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-02-26 16:40:29 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-02-26 16:40:18 +0000"
@@ -7640,12 +7628,6 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/animated_torch": {
-    "criteria": {
-      "has_item": "2025-02-26 16:40:29 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
     "criteria": {
       "has_emerald": "2025-02-26 16:40:18 +0000"
@@ -7661,6 +7643,24 @@
   "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
     "criteria": {
       "has_emerald": "2025-02-26 16:40:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-02-26 16:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-26 16:40:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-02-26 16:40:29 +0000"
     },
     "done": true
   },
