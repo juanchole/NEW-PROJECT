@@ -588,6 +588,7 @@
       "chalk_cliffs": "2025-02-26 17:36:31 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
       "saguaro_desert": "2025-02-26 17:29:06 +0000",
+      "baobab_savanna": "2025-02-26 18:01:03 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -606,6 +607,7 @@
       "chalk_cliffs": "2025-02-26 17:36:31 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
       "saguaro_desert": "2025-02-26 17:29:06 +0000",
+      "baobab_savanna": "2025-02-26 18:01:03 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -622,11 +624,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-26 18:08:21 +0000",
       "minecraft:wooded_badlands": "2025-02-26 17:29:11 +0000",
       "minecraft:badlands": "2025-02-26 17:29:09 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:20:09 +0000",
       "minecraft:river": "2025-02-26 05:04:09 +0000",
       "minecraft:stony_shore": "2025-02-26 17:29:22 +0000",
+      "minecraft:forest": "2025-02-26 18:07:28 +0000",
       "minecraft:desert": "2025-02-26 17:17:32 +0000",
       "minecraft:savanna": "2025-02-26 16:18:02 +0000",
       "minecraft:plains": "2025-02-26 15:51:22 +0000"
@@ -8197,9 +8201,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8227,9 +8243,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_red_sandstone_tiles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8242,6 +8282,18 @@
   "techreborn:recipes/centrifuge/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-26 17:10:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_pavers_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8275,9 +8327,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8293,6 +8363,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8302,6 +8378,12 @@
   "mcdw:recipes/daggers/dagger_fangs_of_frost": {
     "criteria": {
       "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8371,9 +8453,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-02-26 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-26 17:56:49 +0000"
     },
     "done": true
   },
@@ -8431,9 +8525,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_pillar_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plates_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-02-26 17:56:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-02-26 17:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8473,6 +8603,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
@@ -8482,6 +8618,36 @@
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
       "has_refined_iron": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-26 17:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-02-26 18:02:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
     },
     "done": true
   },
@@ -8497,9 +8663,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-02-26 16:56:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-02-26 17:56:02 +0000",
+      "silicon": "2025-02-26 17:56:02 +0000",
+      "engineering": "2025-02-26 17:56:06 +0000",
+      "logic": "2025-02-26 17:56:06 +0000"
     },
     "done": true
   },
@@ -8521,6 +8702,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-26 17:56:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -8533,9 +8720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-02-26 18:02:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sandstone_pillar_trim": {
+    "criteria": {
+      "has_red_sandstone_pillar_trim": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8557,6 +8756,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-26 17:56:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8572,6 +8777,12 @@
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-02-26 17:01:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8636,6 +8847,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-02-26 17:00:33 +0000"
@@ -8672,6 +8889,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-26 17:59:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-26 17:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-02-26 17:01:06 +0000"
@@ -8684,15 +8913,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2025-02-26 17:59:39 +0000"
     },
     "done": true
   },
@@ -8708,6 +8955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-02-26 16:58:16 +0000"
@@ -8717,6 +8970,12 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-02-26 17:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-02-26 17:56:42 +0000"
     },
     "done": true
   },
@@ -8732,15 +8991,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-02-26 17:01:12 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
     },
     "done": true
   },
@@ -8828,15 +9111,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-02-26 17:41:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sandstone_corner_trim": {
+    "criteria": {
+      "has_red_sandstone_corner_trim": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8894,15 +9195,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-02-26 18:02:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-26 17:59:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:refinediron": {
     "criteria": {
       "crit_0": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8936,15 +9261,33 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-02-26 17:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:from_the_tree_tops": {
     "criteria": {
       "kapok_vines": "2025-02-26 17:35:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_brick_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -8966,6 +9309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-02-26 16:56:19 +0000"
@@ -8981,6 +9330,12 @@
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-02-26 18:02:41 +0000"
     },
     "done": true
   },
@@ -9020,6 +9375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-26 17:59:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-02-26 17:00:33 +0000"
@@ -9041,6 +9402,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_red_sandstone_brick_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -9134,9 +9501,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_shingle_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_sand_from_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -9146,9 +9525,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-26 17:56:49 +0000"
     },
     "done": true
   },
@@ -9194,9 +9585,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_tiles_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_red_sandstone_bricks_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -9215,6 +9618,18 @@
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2025-02-26 17:59:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
@@ -9251,6 +9666,18 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-02-26 17:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
     },
     "done": true
   },
@@ -9308,6 +9735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -9323,6 +9756,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-02-26 18:06:15 +0000"
     },
     "done": true
   },
@@ -9380,6 +9819,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-02-26 17:31:57 +0000"
@@ -9392,6 +9837,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_paver_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -9401,6 +9852,12 @@
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-02-26 18:02:13 +0000"
     },
     "done": true
   },
@@ -9428,9 +9885,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/red_sandstone_plate_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_sand_from_cut_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-02-26 18:02:13 +0000"
     },
     "done": true
   },
@@ -9458,6 +9927,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-02-26 17:55:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -9467,6 +9942,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/red_sandstone_tile_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-02-26 18:02:25 +0000"
     },
     "done": true
   },
