@@ -2590,3 +2590,40 @@ BCLib - The End  BiomeSource (719d7c43)
 [17:27:41] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 120, 109, 1425, minecraft:overworld
 [17:27:53] [Server thread/INFO]: elpatomaster has made the advancement [I was here, i lived, i..]
 [17:28:12] [Server thread/INFO]: elpatomaster has made the advancement [World of illusion]
+[17:28:48] [Server thread/INFO]: Villager class_1646['Kristeen'/2057, l='ServerLevel[world]', x=92.39, y=113.02, z=1416.67] died, message: 'Kristeen was slain by Ravager'
+[17:28:48] [Server thread/INFO]: Named entity class_1646['Kristeen'/2057, l='ServerLevel[world]', x=92.39, y=113.02, z=1416.67] died: Kristeen was slain by Ravager
+[17:28:51] [Server thread/INFO]: Villager class_1646['Shawanda'/1983, l='ServerLevel[world]', x=100.93, y=113.54, z=1420.06] died, message: 'Shawanda was slain by Vindicator'
+[17:28:51] [Server thread/INFO]: Named entity class_1646['Shawanda'/1983, l='ServerLevel[world]', x=100.93, y=113.54, z=1420.06] died: Shawanda was slain by Vindicator
+[17:28:51] [Server thread/INFO]: Villager class_1646['Gladis'/2062, l='ServerLevel[world]', x=91.74, y=113.00, z=1416.60] died, message: 'Gladis was slain by Ravager'
+[17:28:51] [Server thread/INFO]: Named entity class_1646['Gladis'/2062, l='ServerLevel[world]', x=91.74, y=113.00, z=1416.60] died: Gladis was slain by Ravager
+[17:28:54] [Server thread/INFO]: Villager class_1646['Yahaira'/1984, l='ServerLevel[world]', x=107.55, y=111.50, z=1409.47] died, message: 'Yahaira was slain by Vindicator'
+[17:28:54] [Server thread/INFO]: Named entity class_1646['Yahaira'/1984, l='ServerLevel[world]', x=107.55, y=111.50, z=1409.47] died: Yahaira was slain by Vindicator
+[17:28:59] [Server thread/INFO]: Villager class_1646['Bobbye'/2053, l='ServerLevel[world]', x=90.79, y=113.50, z=1416.76] died, message: 'Bobbye was slain by Ravager'
+[17:28:59] [Server thread/INFO]: Named entity class_1646['Bobbye'/2053, l='ServerLevel[world]', x=90.79, y=113.50, z=1416.76] died: Bobbye was slain by Ravager
+[17:29:01] [Server thread/INFO]: Villager class_1646['Zack'/1977, l='ServerLevel[world]', x=94.75, y=113.18, z=1417.69] died, message: 'Zack was slain by Vindicator'
+[17:29:01] [Server thread/INFO]: Named entity class_1646['Zack'/1977, l='ServerLevel[world]', x=94.75, y=113.18, z=1417.69] died: Zack was slain by Vindicator
+[17:29:02] [Server thread/INFO]: Villager class_1646['Julius'/2054, l='ServerLevel[world]', x=89.84, y=116.00, z=1402.38] died, message: 'Julius was killed by magic'
+[17:29:02] [Server thread/INFO]: Named entity class_1646['Julius'/2054, l='ServerLevel[world]', x=89.84, y=116.00, z=1402.38] died: Julius was killed by magic
+[17:29:02] [Server thread/INFO]: Villager class_1646['Vertie'/1982, l='ServerLevel[world]', x=94.44, y=114.77, z=1417.23] died, message: 'Vertie was slain by Ravager'
+[17:29:02] [Server thread/INFO]: Named entity class_1646['Vertie'/1982, l='ServerLevel[world]', x=94.44, y=114.77, z=1417.23] died: Vertie was slain by Ravager
+[17:29:03] [Server thread/INFO]: Villager class_1646['Stefan'/2154, l='ServerLevel[world]', x=91.47, y=113.00, z=1407.74] died, message: 'Stefan was slain by Vindicator'
+[17:29:03] [Server thread/INFO]: Named entity class_1646['Stefan'/2154, l='ServerLevel[world]', x=91.47, y=113.00, z=1407.74] died: Stefan was slain by Vindicator
+[17:29:07] [Server thread/INFO]: Villager class_1646['Terri'/2056, l='ServerLevel[world]', x=101.06, y=114.23, z=1419.24] died, message: 'Terri was slain by Ravager'
+[17:29:07] [Server thread/INFO]: Named entity class_1646['Terri'/2056, l='ServerLevel[world]', x=101.06, y=114.23, z=1419.24] died: Terri was slain by Ravager
+[17:29:07] [Server thread/INFO]: Villager class_1646['Lavina'/2059, l='ServerLevel[world]', x=97.13, y=112.00, z=1413.96] died, message: 'Lavina was slain by Vindicator'
+[17:29:07] [Server thread/INFO]: Named entity class_1646['Lavina'/2059, l='ServerLevel[world]', x=97.13, y=112.00, z=1413.96] died: Lavina was slain by Vindicator
+[17:29:23] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[17:29:42] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17:30:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=840, y=91, z=1527}
+[17:30:09] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=840, y=91, z=1527}
+[17:31:57] [Server thread/INFO]: elpatomaster has made the advancement [Refined Iron]
+[17:34:01] [Server thread/INFO]: Juanchole10 starved to death
+[17:34:04] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[17:35:37] [Server thread/INFO]: elpatomaster has made the advancement [From the Tree Tops]
+[17:35:49] [Server thread/INFO]: Juanchole10 was slain by Spider
+[17:35:49] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:35:53] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1518535274,-937737865,-1439854583,409123321],type:"minecraft:entity",y_offset:0.36f}}]
+[17:36:06] [Server thread/INFO]: Villager class_1646['Amos'/29303, l='ServerLevel[world]', x=87.59, y=115.00, z=1403.47] died, message: 'Amos was slain by Vindicator'
+[17:36:06] [Server thread/INFO]: Named entity class_1646['Amos'/29303, l='ServerLevel[world]', x=87.59, y=115.00, z=1403.47] died: Amos was slain by Vindicator
+[17:37:03] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[17:38:05] [Server thread/INFO]: [elpatomaster: Teleported Juanchole10 to elpatomaster]

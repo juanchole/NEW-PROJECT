@@ -583,8 +583,10 @@
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
       "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
+      "joshua_desert": "2025-02-26 17:29:03 +0000",
       "deciduous_forest": "2025-02-26 16:19:59 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
+      "saguaro_desert": "2025-02-26 17:29:06 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -598,8 +600,10 @@
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
       "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
+      "joshua_desert": "2025-02-26 17:29:03 +0000",
       "deciduous_forest": "2025-02-26 16:19:59 +0000",
       "bamboo_forest": "2025-02-26 16:05:49 +0000",
+      "saguaro_desert": "2025-02-26 17:29:06 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -616,8 +620,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-02-26 17:29:11 +0000",
+      "minecraft:badlands": "2025-02-26 17:29:09 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:20:09 +0000",
       "minecraft:river": "2025-02-26 05:04:09 +0000",
+      "minecraft:stony_shore": "2025-02-26 17:29:22 +0000",
       "minecraft:desert": "2025-02-26 17:17:32 +0000",
       "minecraft:savanna": "2025-02-26 16:18:02 +0000",
       "minecraft:plains": "2025-02-26 15:51:22 +0000"
@@ -8199,6 +8206,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/sand_from_smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone_slab": "2025-02-26 17:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8226,6 +8239,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-26 17:14:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
     },
     "done": true
   },
@@ -8259,6 +8278,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8274,6 +8299,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-26 17:09:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
     },
     "done": true
   },
@@ -8319,6 +8350,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-26 17:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8331,6 +8368,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2025-02-26 17:01:14 +0000"
@@ -8340,6 +8383,12 @@
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
@@ -8373,6 +8422,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-26 17:10:06 +0000"
@@ -8385,9 +8440,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
     },
     "done": true
   },
@@ -8433,6 +8500,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-02-26 17:20:16 +0000"
@@ -8445,9 +8518,28 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-02-26 17:01:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-02-26 17:28:12 +0000",
+      "killed_iceologer": "2025-02-26 17:27:53 +0000"
+    },
+    "done": false
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
     },
     "done": true
   },
@@ -8493,6 +8585,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-02-26 17:00:33 +0000"
@@ -8514,6 +8612,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
@@ -8547,6 +8651,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-26 17:01:14 +0000"
@@ -8556,6 +8666,12 @@
   "techreborn:recipes/extractor/string_from_crossbow": {
     "criteria": {
       "has_crossbow": "2025-02-26 16:58:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
@@ -8571,6 +8687,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -8580,6 +8702,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-26 16:58:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
     },
     "done": true
   },
@@ -8610,6 +8738,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
     "criteria": {
       "has_nickel_ingot": "2025-02-26 17:01:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
@@ -8685,9 +8819,27 @@
     },
     "done": true
   },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/golden_carrot": {
     "criteria": {
       "has_carrot": "2025-02-26 17:01:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
     },
     "done": true
   },
@@ -8748,6 +8900,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
@@ -8823,6 +8981,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:bow_way": {
     "criteria": {
       "items": "2025-02-26 16:58:16 +0000"
@@ -8850,6 +9014,12 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
     },
     "done": true
   },
@@ -8985,6 +9155,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-02-26 17:09:54 +0000"
@@ -9027,6 +9203,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
@@ -9045,6 +9227,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-02-26 17:31:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
@@ -9057,9 +9245,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_blue_ice": "2025-02-26 17:27:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-26 17:28:12 +0000"
     },
     "done": true
   },
@@ -9084,6 +9284,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-26 17:10:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-26 17:32:01 +0000"
     },
     "done": true
   },
