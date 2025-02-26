@@ -605,14 +605,20 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "deciduous_forest": "2025-02-26 16:19:51 +0000",
       "bamboo_forest": "2025-02-26 16:05:54 +0000",
+      "grassland": "2025-02-26 16:17:15 +0000",
+      "prairie": "2025-02-26 16:17:27 +0000",
       "lupine_plains": "2025-02-26 15:41:36 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "deciduous_forest": "2025-02-26 16:19:51 +0000",
       "bamboo_forest": "2025-02-26 16:05:54 +0000",
+      "grassland": "2025-02-26 16:17:15 +0000",
+      "prairie": "2025-02-26 16:17:27 +0000",
       "lupine_plains": "2025-02-26 15:41:36 +0000"
     },
     "done": false
@@ -800,7 +806,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_peaks": "2025-02-26 16:19:57 +0000",
       "minecraft:river": "2025-02-26 15:50:47 +0000",
+      "minecraft:savanna": "2025-02-26 16:18:03 +0000",
       "minecraft:plains": "2025-02-26 15:56:42 +0000"
     },
     "done": false
@@ -1412,6 +1420,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-26 16:15:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
@@ -1427,6 +1441,12 @@
   "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
       "has_item": "2025-02-26 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-26 16:20:33 +0000"
     },
     "done": true
   },
@@ -1568,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-26 16:19:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
@@ -1685,6 +1711,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-02-26 15:54:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-02-26 16:15:00 +0000"
     },
     "done": true
   },
@@ -2678,6 +2710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-26 16:15:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_fence": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
@@ -2831,6 +2869,12 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-26 16:15:05 +0000"
     },
     "done": true
   },
@@ -3017,6 +3061,12 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-02-26 16:15:03 +0000"
     },
     "done": true
   },
@@ -3513,6 +3563,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-26 16:20:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-26 16:07:43 +0000"
@@ -3540,6 +3596,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-26 16:15:05 +0000"
     },
     "done": true
   },
@@ -4335,6 +4397,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-02-26 16:20:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2025-02-26 16:00:15 +0000"
@@ -4923,6 +4991,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-26 16:16:29 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/glut_charm": {
     "criteria": {
       "has_rotten_flesh": "2025-02-26 16:00:15 +0000"
@@ -5370,6 +5444,12 @@
   "mcdw:recipes/crossbows/crossbow_imploding": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 16:02:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-26 16:16:25 +0000"
     },
     "done": true
   },
@@ -5914,6 +5994,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-26 16:21:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-26 16:09:41 +0000"
@@ -6058,6 +6144,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-26 16:20:33 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/dark_armor_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 16:02:45 +0000"
@@ -6187,6 +6279,12 @@
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-02-26 16:00:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
+    "criteria": {
+      "has_flint": "2025-02-26 16:15:03 +0000"
     },
     "done": true
   },
@@ -6332,6 +6430,12 @@
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-02-26 15:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-26 16:15:03 +0000"
     },
     "done": true
   },
