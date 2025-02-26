@@ -2786,6 +2786,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-26 16:58:15 +0000",
+      "minecraft:skeleton": "2025-02-26 17:52:31 +0000",
       "minecraft:ravager": "2025-02-26 17:23:52 +0000",
       "minecraft:vindicator": "2025-02-26 17:19:25 +0000",
       "minecraft:piglin_brute": "2025-02-26 16:06:23 +0000",
@@ -8196,6 +8197,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/grinder": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-26 17:40:22 +0000"
@@ -8376,6 +8383,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-02-26 17:48:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 17:02:14 +0000"
@@ -8397,6 +8410,12 @@
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
     },
     "done": true
   },
@@ -8707,9 +8726,21 @@
     },
     "done": true
   },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-02-26 17:48:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-02-26 17:01:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-26 17:46:53 +0000"
     },
     "done": true
   },
@@ -8845,6 +8876,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -8965,6 +9002,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -9004,6 +9047,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-02-26 17:48:49 +0000"
     },
     "done": true
   },
@@ -9055,6 +9104,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
@@ -9070,6 +9125,12 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-26 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-02-26 17:48:49 +0000"
     },
     "done": true
   },
@@ -9133,6 +9194,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-02-26 17:09:49 +0000"
@@ -9160,6 +9227,12 @@
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
     },
     "done": true
   },
@@ -9238,6 +9311,18 @@
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-26 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-26 17:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-26 17:46:53 +0000"
     },
     "done": true
   },
