@@ -2,9 +2,7 @@
 	id: "ac1fe722-2f3c-3b58-a94a-e5d06a7b016d"
 	type: "player"
 	player_name: "Juanchole10"
-	ranks: {
-		ac1fe722-2f3c-3b58-a94a-e5d06a7b016d: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Juanchole10"
 		"ftbteams:description": ""

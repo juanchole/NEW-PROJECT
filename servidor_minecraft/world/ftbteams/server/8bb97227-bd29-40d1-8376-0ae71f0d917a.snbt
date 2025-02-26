@@ -1,0 +1,14 @@
+{
+	id: "8bb97227-bd29-40d1-8376-0ae71f0d917a"
+	type: "server"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "los pibardos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

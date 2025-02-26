@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8bb97227bd2940d183760ae71f0d917a"
+	name: "los_pibardos#8bb97227"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

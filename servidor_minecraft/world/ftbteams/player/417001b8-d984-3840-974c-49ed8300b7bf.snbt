@@ -2,9 +2,7 @@
 	id: "417001b8-d984-3840-974c-49ed8300b7bf"
 	type: "player"
 	player_name: "elpatomaster"
-	ranks: {
-		417001b8-d984-3840-974c-49ed8300b7bf: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "elpatomaster"
 		"ftbteams:description": ""
