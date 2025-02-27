@@ -2877,3 +2877,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:14:20] [Server thread/INFO]: Villager class_1646['Jerome'/60, l='ServerLevel[world]', x=42.13, y=236.00, z=15.63] died, message: 'Jerome hit the ground too hard'
 [03:14:20] [Server thread/INFO]: Named entity class_1646['Jerome'/60, l='ServerLevel[world]', x=42.13, y=236.00, z=15.63] died: Jerome fell from a high place
 [03:15:29] [Server thread/INFO]: Juanchole10 has made the advancement [Heart of the Machine]
+[03:20:25] [Server thread/INFO]: Juanchole10 has made the advancement [Wild Harvest]
+[03:21:05] [Server thread/INFO]: elpatomaster has made the advancement [An Ancient Tomb]
+[03:22:15] [Server thread/INFO]: Juanchole10 has made the advancement [Unknown Technology]
+[03:22:47] [Server thread/INFO]: Villager class_1646['Booker'/29778, l='ServerLevel[world]', x=1152.83, y=74.00, z=1217.87] died, message: 'Booker hit the ground too hard'
+[03:22:47] [Server thread/INFO]: Named entity class_1646['Booker'/29778, l='ServerLevel[world]', x=1152.83, y=74.00, z=1217.87] died: Booker fell from a high place
+[03:24:03] [Server thread/INFO]: Juanchole10 has made the advancement [An Ancient Tomb]
+[03:26:16] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[03:27:54] [Server thread/INFO]: elpatomaster has made the advancement [Take Aim]
+[03:33:11] [Server thread/INFO]: Juanchole10 has made the advancement [Bonfire Lit]
