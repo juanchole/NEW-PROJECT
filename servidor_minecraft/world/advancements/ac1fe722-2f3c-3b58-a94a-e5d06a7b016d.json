@@ -823,6 +823,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-02-27 02:46:04 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:19:57 +0000",
       "minecraft:river": "2025-02-26 15:50:47 +0000",
       "minecraft:desert": "2025-02-26 17:11:04 +0000",
@@ -9842,6 +9843,144 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
     "criteria": {
       "has_kelp": "2025-02-26 17:33:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-27 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tungstensteel_plate": {
+    "criteria": {
+      "has_tag_c_tungstensteel_ingots": "2025-02-27 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beer": {
+    "criteria": {
+      "has_hops": "2025-02-27 03:11:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
+    "criteria": {
+      "has_platinum_ingot": "2025-02-27 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-02-27 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/raw_iron": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-27 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/platinum_dust": {
+    "criteria": {
+      "has_tag_c_platinum_ingots": "2025-02-27 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/platinum_storage_block": {
+    "criteria": {
+      "has_platinum_ingot": "2025-02-27 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops": "2025-02-27 03:11:23 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tungstensteel_nugget": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-02-27 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-27 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-02-27 03:10:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-02-27 03:11:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/platinum_plate": {
+    "criteria": {
+      "has_tag_c_platinum_ingots": "2025-02-27 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tungstensteel_storage_block": {
+    "criteria": {
+      "has_tungstensteel_ingot": "2025-02-27 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-27 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:hops": "2025-02-27 03:11:23 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
+    "criteria": {
+      "has_tag_c_iron_ores": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-27 03:10:02 +0000"
     },
     "done": true
   },
