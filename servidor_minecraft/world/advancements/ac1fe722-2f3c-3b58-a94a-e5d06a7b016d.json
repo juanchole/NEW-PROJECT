@@ -853,14 +853,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-27 04:59:06 +0000",
       "minecraft:wooded_badlands": "2025-02-27 02:46:04 +0000",
       "minecraft:badlands": "2025-02-27 04:19:02 +0000",
       "minecraft:beach": "2025-02-27 04:38:03 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:19:57 +0000",
+      "minecraft:dark_forest": "2025-02-27 04:59:38 +0000",
       "minecraft:mangrove_swamp": "2025-02-27 04:46:26 +0000",
       "minecraft:river": "2025-02-26 15:50:47 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 04:42:35 +0000",
       "minecraft:desert": "2025-02-26 17:11:04 +0000",
+      "minecraft:ocean": "2025-02-27 04:58:41 +0000",
       "minecraft:windswept_savanna": "2025-02-27 04:46:18 +0000",
       "minecraft:savanna": "2025-02-26 16:18:03 +0000",
       "minecraft:plains": "2025-02-26 15:56:42 +0000"
@@ -10020,6 +10023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-02-27 04:15:29 +0000"
@@ -10146,6 +10155,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/mead": {
     "criteria": {
       "has_honey": "2025-02-27 03:43:21 +0000"
@@ -10212,9 +10227,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -10236,6 +10263,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
@@ -10248,9 +10281,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-27 03:20:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -10386,6 +10431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-02-27 04:52:33 +0000"
@@ -10419,6 +10470,12 @@
   "regions_unexplored:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_redwood_planks": "2025-02-27 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -10779,9 +10836,21 @@
     },
     "done": true
   },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-02-27 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -10812,6 +10881,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-27 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -10905,6 +10980,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-02-27 04:14:25 +0000"
@@ -10995,6 +11076,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-02-27 03:42:24 +0000"
@@ -11022,6 +11109,12 @@
   "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11067,9 +11160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/abyss_watcher": {
     "criteria": {
       "has_ender_pearl": "2025-02-27 04:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11130,6 +11235,12 @@
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-02-27 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11307,6 +11418,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-02-27 04:44:04 +0000"
@@ -11337,6 +11454,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/platinum_plate": {
     "criteria": {
       "has_tag_c_platinum_ingots": "2025-02-27 03:09:58 +0000"
@@ -11352,6 +11475,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11421,6 +11550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/purple_dye_from_bubble_coral": {
     "criteria": {
       "has_bubble_coral": "2025-02-27 04:43:54 +0000"
@@ -11460,6 +11595,12 @@
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11715,6 +11856,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-02-27 03:43:21 +0000"
@@ -11745,6 +11892,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sand_from_sandstone_stairs": {
     "criteria": {
       "has_sandstone_stairs": "2025-02-27 04:15:13 +0000"
@@ -11772,6 +11925,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11901,6 +12060,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-27 03:15:29 +0000"
@@ -11910,6 +12075,12 @@
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -11964,6 +12135,18 @@
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -12024,6 +12207,12 @@
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-02-27 04:55:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -12213,6 +12402,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/stairs/quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-02-27 03:22:20 +0000"
@@ -12228,6 +12423,12 @@
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-27 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -12288,6 +12489,12 @@
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
@@ -12375,6 +12582,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
@@ -12420,6 +12633,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_plate_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 04:58:36 +0000"
     },
     "done": true
   },
