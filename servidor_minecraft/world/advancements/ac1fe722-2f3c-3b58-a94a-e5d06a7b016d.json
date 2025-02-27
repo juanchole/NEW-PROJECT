@@ -607,12 +607,16 @@
     "criteria": {
       "arid_mountains": "2025-02-27 03:21:12 +0000",
       "dry_bushland": "2025-02-27 04:37:14 +0000",
+      "marsh": "2025-02-27 04:41:44 +0000",
+      "rocky_reef": "2025-02-27 04:38:06 +0000",
       "redstone_caves": "2025-02-27 04:16:36 +0000",
       "scorching_caves": "2025-02-26 17:09:31 +0000",
+      "rocky_meadow": "2025-02-27 04:38:41 +0000",
       "tropical_river": "2025-02-26 17:11:03 +0000",
       "magnolia_highlands": "2025-02-26 17:02:04 +0000",
       "joshua_desert": "2025-02-26 17:29:14 +0000",
       "deciduous_forest": "2025-02-26 16:19:51 +0000",
+      "towering_cliffs": "2025-02-27 04:40:53 +0000",
       "bamboo_forest": "2025-02-26 16:05:54 +0000",
       "grassland": "2025-02-26 16:17:15 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
@@ -626,10 +630,14 @@
     "criteria": {
       "arid_mountains": "2025-02-27 03:21:12 +0000",
       "dry_bushland": "2025-02-27 04:37:14 +0000",
+      "marsh": "2025-02-27 04:41:44 +0000",
+      "rocky_reef": "2025-02-27 04:38:06 +0000",
+      "rocky_meadow": "2025-02-27 04:38:41 +0000",
       "tropical_river": "2025-02-26 17:11:03 +0000",
       "magnolia_highlands": "2025-02-26 17:02:04 +0000",
       "joshua_desert": "2025-02-26 17:29:14 +0000",
       "deciduous_forest": "2025-02-26 16:19:51 +0000",
+      "towering_cliffs": "2025-02-27 04:40:53 +0000",
       "bamboo_forest": "2025-02-26 16:05:54 +0000",
       "grassland": "2025-02-26 16:17:15 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
@@ -834,9 +842,13 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-02-27 02:46:04 +0000",
       "minecraft:badlands": "2025-02-27 04:19:02 +0000",
+      "minecraft:beach": "2025-02-27 04:38:03 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:19:57 +0000",
+      "minecraft:mangrove_swamp": "2025-02-27 04:46:26 +0000",
       "minecraft:river": "2025-02-26 15:50:47 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-27 04:42:35 +0000",
       "minecraft:desert": "2025-02-26 17:11:04 +0000",
+      "minecraft:windswept_savanna": "2025-02-27 04:46:18 +0000",
       "minecraft:savanna": "2025-02-26 16:18:03 +0000",
       "minecraft:plains": "2025-02-26 15:56:42 +0000"
     },
@@ -9893,6 +9905,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-27 04:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
@@ -9938,6 +9956,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_shingle_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-02-27 04:38:46 +0000"
     },
     "done": true
   },
@@ -10070,6 +10094,12 @@
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-02-27 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-27 04:44:04 +0000"
     },
     "done": true
   },
@@ -10223,6 +10253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-27 04:39:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-02-27 04:30:55 +0000"
@@ -10271,6 +10307,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_red_sandstone_wall_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
@@ -10307,6 +10349,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-27 04:40:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2025-02-27 03:42:24 +0000"
@@ -10337,9 +10385,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-27 04:39:31 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/hanging_roots_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-02-27 04:47:11 +0000"
     },
     "done": true
   },
@@ -10370,6 +10430,12 @@
   "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
     "criteria": {
       "press": "2025-02-27 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
     },
     "done": true
   },
@@ -10484,6 +10550,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_bricks_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
     },
     "done": true
   },
@@ -10658,6 +10730,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-02-27 04:47:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 03:17:32 +0000"
@@ -10721,6 +10799,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
     },
     "done": true
   },
@@ -10814,6 +10898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-02-27 03:16:29 +0000"
@@ -10883,6 +10973,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_shingle_wall_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-27 04:40:03 +0000"
     },
     "done": true
   },
@@ -11114,6 +11210,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 03:17:32 +0000"
@@ -11123,6 +11225,12 @@
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-02-27 03:15:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-27 04:40:03 +0000"
     },
     "done": true
   },
@@ -11207,6 +11315,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-02-27 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/purple_dye_from_bubble_coral": {
+    "criteria": {
+      "has_bubble_coral": "2025-02-27 04:43:54 +0000"
     },
     "done": true
   },
@@ -11312,6 +11426,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-27 04:41:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
@@ -11393,6 +11513,12 @@
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-02-27 04:40:03 +0000"
     },
     "done": true
   },
@@ -11498,6 +11624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-02-27 04:14:25 +0000"
@@ -11573,6 +11705,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-27 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
     },
     "done": true
   },
@@ -11672,6 +11810,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
@@ -11693,6 +11837,12 @@
   "stoneworks:recipes/building_blocks/red_sandstone_tiles_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-02-27 04:27:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-27 04:39:31 +0000"
     },
     "done": true
   },
@@ -11888,6 +12038,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 04:44:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_white": {
     "criteria": {
       "has_dyes/black": "2025-02-27 04:12:03 +0000"
@@ -12074,6 +12230,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-02-27 04:39:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:15:29 +0000"
@@ -12107,6 +12269,12 @@
   "mcda:recipes/base_armors/climbing_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-02-27 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-02-27 04:47:11 +0000"
     },
     "done": true
   },
