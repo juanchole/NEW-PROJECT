@@ -10210,6 +10210,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-02-27 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-02-27 03:33:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
@@ -10759,6 +10771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-27 03:39:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_milk_bucket": {
     "criteria": {
       "has_milk_bucket": "2025-02-27 03:25:50 +0000"
@@ -10822,6 +10840,12 @@
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-02-27 03:19:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-02-27 03:39:55 +0000"
     },
     "done": true
   },
@@ -10942,6 +10966,12 @@
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-02-27 03:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-27 03:39:55 +0000"
     },
     "done": true
   },

@@ -2886,3 +2886,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:26:16] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
 [03:27:54] [Server thread/INFO]: elpatomaster has made the advancement [Take Aim]
 [03:33:11] [Server thread/INFO]: Juanchole10 has made the advancement [Bonfire Lit]
+[03:42:23] [Server thread/INFO]: Juanchole10 has made the advancement [Penteconter]
+[03:42:33] [Server thread/INFO]: [elpatomaster: Created team [anashe]]
+[03:42:40] [Server thread/INFO]: [elpatomaster: Added 2 members to team [anashe]]
+[03:42:48] [Server thread/INFO]: [elpatomaster: Disabled friendly fire for team [anashe]]

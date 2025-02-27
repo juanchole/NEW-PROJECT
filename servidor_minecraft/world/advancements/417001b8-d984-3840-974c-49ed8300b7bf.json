@@ -9982,6 +9982,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-27 03:09:49 +0000"
@@ -10015,6 +10021,12 @@
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-02-27 03:21:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-27 03:32:36 +0000"
     },
     "done": true
   },
@@ -10129,6 +10141,18 @@
   "techreborn:recipes/centrifuge/enchanted_golden_apple": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-27 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
@@ -10330,6 +10354,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-27 03:09:49 +0000"
@@ -10354,9 +10384,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "estrogen:root": {
     "criteria": {
       "root": "2025-02-27 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-27 03:32:36 +0000"
     },
     "done": true
   },
@@ -10369,6 +10411,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-02-27 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
@@ -10426,6 +10474,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-27 03:09:49 +0000"
@@ -10450,9 +10504,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-02-27 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
@@ -10528,6 +10594,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
     "criteria": {
       "has_iridium_ingot": "2025-02-27 03:12:32 +0000"
@@ -10540,9 +10612,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-27 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-27 03:32:36 +0000"
     },
     "done": true
   },
@@ -10564,6 +10648,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-02-27 03:18:03 +0000"
@@ -10573,6 +10663,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-02-27 02:58:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_milk_bucket": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
@@ -10672,6 +10768,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-27 03:32:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-02-27 03:12:03 +0000"
@@ -10717,6 +10819,12 @@
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2025-02-27 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
@@ -10789,6 +10897,12 @@
   "techreborn:recipes/crafting_table/cable/superconductor_cable": {
     "criteria": {
       "has_energy_flow_chip": "2025-02-27 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-02-27 03:32:36 +0000"
     },
     "done": true
   },
