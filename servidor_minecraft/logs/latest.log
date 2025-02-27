@@ -2896,3 +2896,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:03:59] [Server thread/INFO]: <elpatomaster> q
 [04:03:59] [Server thread/INFO]: <Juanchole10> veni
 [04:04:02] [Server thread/INFO]: <Juanchole10> quiero muerte
+[04:11:27] [Server thread/INFO]: CLEARED TEMPLE AT class_2338{x=1440, y=0, z=1488}
+[04:11:27] [Server thread/INFO]: elpatomaster has completed the challenge [Eternal Slumber]
+[04:16:32] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=1921, y=65, z=1644}
+[04:16:32] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=1921, y=65, z=1644}
