@@ -583,6 +583,7 @@
       "arid_mountains": "2025-02-27 03:04:42 +0000",
       "dry_bushland": "2025-02-27 02:48:02 +0000",
       "steppe": "2025-02-27 04:29:03 +0000",
+      "bayou": "2025-02-27 04:54:17 +0000",
       "sparse_rainforest": "2025-02-27 02:55:49 +0000",
       "marsh": "2025-02-27 04:44:17 +0000",
       "rocky_reef": "2025-02-27 02:53:40 +0000",
@@ -611,6 +612,7 @@
       "arid_mountains": "2025-02-27 03:04:42 +0000",
       "dry_bushland": "2025-02-27 02:48:02 +0000",
       "steppe": "2025-02-27 04:29:03 +0000",
+      "bayou": "2025-02-27 04:54:17 +0000",
       "sparse_rainforest": "2025-02-27 02:55:49 +0000",
       "marsh": "2025-02-27 04:44:17 +0000",
       "rocky_reef": "2025-02-27 02:53:40 +0000",
@@ -647,10 +649,12 @@
       "minecraft:wooded_badlands": "2025-02-26 17:29:11 +0000",
       "minecraft:badlands": "2025-02-26 17:29:09 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:20:09 +0000",
+      "minecraft:mangrove_swamp": "2025-02-27 04:49:17 +0000",
       "minecraft:sparse_jungle": "2025-02-27 04:37:08 +0000",
       "minecraft:river": "2025-02-26 05:04:09 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 04:44:08 +0000",
       "minecraft:stony_shore": "2025-02-26 17:29:22 +0000",
+      "minecraft:swamp": "2025-02-27 04:54:23 +0000",
       "minecraft:forest": "2025-02-26 18:07:28 +0000",
       "minecraft:desert": "2025-02-26 17:17:32 +0000",
       "minecraft:jungle": "2025-02-27 04:37:14 +0000",
@@ -2816,6 +2820,7 @@
       "minecraft:ravager": "2025-02-26 17:23:52 +0000",
       "minecraft:vindicator": "2025-02-26 17:19:25 +0000",
       "minecraft:piglin_brute": "2025-02-26 16:06:23 +0000",
+      "minecraft:spider": "2025-02-27 04:57:38 +0000",
       "minecraft:witch": "2025-02-26 17:24:05 +0000",
       "minecraft:husk": "2025-02-27 03:06:41 +0000",
       "minecraft:cave_spider": "2025-02-27 02:42:39 +0000",
@@ -10018,6 +10023,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-27 04:56:14 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/large_graveyard": {
     "criteria": {
       "large_graveyard": "2025-02-27 04:44:50 +0000"
@@ -10402,6 +10413,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-27 04:57:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-27 03:09:49 +0000"
@@ -10483,6 +10500,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-27 04:00:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-27 04:57:17 +0000"
     },
     "done": true
   },
@@ -10858,6 +10881,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-02-27 04:57:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-02-27 03:43:16 +0000"
@@ -10885,6 +10914,12 @@
   "techreborn:recipes/crafting_table/machine/charge_o_mat": {
     "criteria": {
       "has_energy_flow_chip": "2025-02-27 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-02-27 04:56:14 +0000"
     },
     "done": true
   },
@@ -11500,6 +11535,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-02-27 04:53:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-02-27 03:45:37 +0000"
@@ -11527,6 +11568,12 @@
   "botania:recipes/misc/quartz_dark": {
     "criteria": {
       "has_item": "2025-02-27 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-27 04:53:51 +0000"
     },
     "done": true
   },
@@ -11665,6 +11712,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-27 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-27 04:57:17 +0000"
     },
     "done": true
   },
