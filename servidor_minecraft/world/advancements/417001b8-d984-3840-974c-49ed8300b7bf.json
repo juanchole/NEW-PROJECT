@@ -9976,9 +9976,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/tungstensteel_plate": {
     "criteria": {
       "has_tag_c_tungstensteel_ingots": "2025-02-27 03:11:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-02-27 03:51:21 +0000"
     },
     "done": true
   },
@@ -10048,9 +10060,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/industrial_chainsaw": {
     "criteria": {
       "has_energy_flow_chip": "2025-02-27 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
     },
     "done": true
   },
@@ -10060,9 +10084,21 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-27 03:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-02-27 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10096,6 +10132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-02-27 03:12:03 +0000"
@@ -10105,6 +10147,12 @@
   "techreborn:recipes/crafting_table/storage_block/iridium_reinforced_tungstensteel_storage_block_alt": {
     "criteria": {
       "has_tungstensteel_ingot": "2025-02-27 03:11:30 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
     },
     "done": true
   },
@@ -10120,6 +10168,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-27 03:49:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/raw_iron": {
     "criteria": {
       "has_tag_c_iron_ores": "2025-02-27 03:12:29 +0000"
@@ -10132,15 +10186,39 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-02-27 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-27 02:52:25 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_sheet": {
+    "criteria": {
+      "has_yellow_sheet": "2025-02-27 03:49:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/enchanted_golden_apple": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-27 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10228,6 +10306,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-27 03:09:49 +0000"
@@ -10255,6 +10339,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-02-27 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
     },
     "done": true
   },
@@ -10294,9 +10384,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-02-27 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
     "criteria": {
       "has_iron_sword": "2025-02-27 03:10:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10315,6 +10423,24 @@
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-27 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-27 03:43:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-27 03:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-27 03:45:37 +0000"
     },
     "done": true
   },
@@ -10342,6 +10468,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/copper_plate": {
     "criteria": {
       "has_copper_ingot": "2025-02-27 03:09:49 +0000"
@@ -10351,6 +10483,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-27 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-27 03:43:16 +0000"
     },
     "done": true
   },
@@ -10378,9 +10516,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-02-27 03:12:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-27 03:45:37 +0000"
     },
     "done": true
   },
@@ -10390,9 +10540,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-02-27 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
   "estrogen:root": {
     "criteria": {
       "root": "2025-02-27 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-02-27 03:43:16 +0000"
     },
     "done": true
   },
@@ -10414,9 +10582,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheese": {
     "criteria": {
       "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
     },
     "done": true
   },
@@ -10444,6 +10642,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-27 03:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-27 03:27:54 +0000"
@@ -10465,6 +10669,12 @@
   "mcda:recipes/crafting_items/gemstone_white": {
     "criteria": {
       "has_quartz": "2025-02-27 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:19 +0000"
     },
     "done": true
   },
@@ -10498,6 +10708,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-27 03:12:03 +0000"
@@ -10522,6 +10738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-27 03:43:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-27 03:22:19 +0000"
@@ -10543,6 +10765,48 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-27 02:49:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-02-27 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-02-27 03:51:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10576,6 +10840,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-02-27 03:13:08 +0000"
@@ -10606,6 +10876,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-02-27 03:09:49 +0000"
@@ -10615,6 +10891,12 @@
   "croptopia:recipes/crema": {
     "criteria": {
       "has_milk": "2025-02-27 03:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-27 03:43:16 +0000"
     },
     "done": true
   },
@@ -10654,6 +10936,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_cushion": {
+    "criteria": {
+      "has_yellow_cushion": "2025-02-27 03:49:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_bone_block": "2025-02-27 03:18:03 +0000"
@@ -10666,15 +10960,39 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 03:47:27 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_milk_bucket": {
     "criteria": {
       "has_milk_bucket": "2025-02-27 03:41:59 +0000"
     },
     "done": true
   },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-27 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-27 03:43:16 +0000"
     },
     "done": true
   },
@@ -10726,9 +11044,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
     "criteria": {
       "has_bow": "2025-02-27 03:22:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-27 03:49:28 +0000"
     },
     "done": true
   },
@@ -10768,6 +11104,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-27 03:43:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-02-27 03:32:36 +0000"
@@ -10780,6 +11122,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-27 03:45:37 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pan": {
     "criteria": {
       "has_copper_block": "2025-02-27 03:09:49 +0000"
@@ -10789,6 +11137,18 @@
   "techreborn:recipes/industrial_grinder/raw_iron_from_iron_ore_with_water": {
     "criteria": {
       "has_tag_c_iron_ores": "2025-02-27 03:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2025-02-27 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-27 03:45:37 +0000"
     },
     "done": true
   },
@@ -10822,6 +11182,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-02-27 03:43:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-02-27 03:41:59 +0000"
@@ -10840,9 +11206,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/blue_bed_from_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-02-27 03:49:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-27 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10855,6 +11233,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_spider": {
     "criteria": {
       "has_core_specification_item": "2025-02-27 02:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:19 +0000"
     },
     "done": true
   },
@@ -10882,9 +11266,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-27 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-27 03:43:30 +0000"
     },
     "done": true
   },
@@ -10909,6 +11305,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-02-27 03:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-27 03:49:22 +0000"
     },
     "done": true
   },
@@ -10939,6 +11341,12 @@
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-27 03:18:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-02-27 03:51:33 +0000"
     },
     "done": true
   },

@@ -809,7 +809,8 @@
       "apple": "2025-02-26 16:08:34 +0000",
       "mutton": "2025-02-26 17:26:47 +0000",
       "bread": "2025-02-26 15:47:48 +0000",
-      "golden_apple": "2025-02-27 03:25:30 +0000"
+      "golden_apple": "2025-02-27 03:25:30 +0000",
+      "golden_carrot": "2025-02-27 03:49:29 +0000"
     },
     "done": false
   },
@@ -9958,6 +9959,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-02-27 03:43:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/platinum_nugget": {
     "criteria": {
       "has_platinum_ingot": "2025-02-27 03:09:58 +0000"
@@ -9991,6 +9998,12 @@
   "techreborn:recipes/grinder/titanium_dust": {
     "criteria": {
       "has_tag_c_titanium_ingots": "2025-02-27 03:16:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-27 03:48:13 +0000"
     },
     "done": true
   },
@@ -10102,6 +10115,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_redwood_planks": "2025-02-27 03:19:28 +0000"
@@ -10186,6 +10205,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/platinum_storage_block": {
     "criteria": {
       "has_platinum_ingot": "2025-02-27 03:09:58 +0000"
@@ -10249,6 +10274,12 @@
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-02-27 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:11 +0000"
     },
     "done": true
   },
@@ -10351,15 +10382,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-27 03:15:07 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-27 03:48:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/tungstensteel_nugget": {
     "criteria": {
       "has_tungstensteel_ingot": "2025-02-27 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
     },
     "done": true
   },
@@ -10378,6 +10427,12 @@
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-02-27 03:16:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:42:24 +0000"
     },
     "done": true
   },
@@ -10405,9 +10460,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-02-27 03:48:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:42:24 +0000"
     },
     "done": true
   },
@@ -10462,6 +10529,12 @@
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-27 03:42:24 +0000"
     },
     "done": true
   },
@@ -10555,6 +10628,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
@@ -10573,6 +10652,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-27 03:20:03 +0000"
@@ -10588,6 +10673,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-27 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-27 03:49:11 +0000"
     },
     "done": true
   },
@@ -10612,6 +10703,12 @@
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-02-27 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 03:42:23 +0000"
     },
     "done": true
   },
@@ -10642,6 +10739,12 @@
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-02-27 03:15:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-27 03:42:24 +0000"
     },
     "done": true
   },
@@ -10690,6 +10793,18 @@
   "techreborn:recipes/blast_furnace/refined_iron_ingot_from_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-02-27 03:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
     },
     "done": true
   },
@@ -10777,6 +10892,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_milk_bucket": {
     "criteria": {
       "has_milk_bucket": "2025-02-27 03:25:50 +0000"
@@ -10792,6 +10913,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-27 03:09:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
     },
     "done": true
   },
@@ -10882,6 +11009,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-27 03:17:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
     },
     "done": true
   },
@@ -11026,6 +11159,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-02-27 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-27 03:43:21 +0000"
     },
     "done": true
   },

@@ -2890,3 +2890,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:42:33] [Server thread/INFO]: [elpatomaster: Created team [anashe]]
 [03:42:40] [Server thread/INFO]: [elpatomaster: Added 2 members to team [anashe]]
 [03:42:48] [Server thread/INFO]: [elpatomaster: Disabled friendly fire for team [anashe]]
+[03:47:27] [Server thread/INFO]: elpatomaster has completed the challenge [Centennial]
