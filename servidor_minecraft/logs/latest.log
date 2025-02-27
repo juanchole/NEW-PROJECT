@@ -2900,3 +2900,32 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:11:27] [Server thread/INFO]: elpatomaster has completed the challenge [Eternal Slumber]
 [04:16:32] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=1921, y=65, z=1644}
 [04:16:32] [Worker-Main-17/WARN]: Tried to access a block entity before it was created. class_2338{x=1921, y=65, z=1644}
+[04:20:12] [Server thread/INFO]: Juanchole10 has made the advancement [Dust, Sand and Bones]
+[04:20:20] [pool-13-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish]] from pos class_2338{x=2245, y=71, z=1563}
+[04:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[04:20:30] [Server thread/INFO]: Juanchole10 has made the advancement [Pseudo Archaeologist]
+[04:25:07] [Server thread/INFO]: elpatomaster has made the advancement [Dust, Sand and Bones]
+[04:26:42] [pool-13-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos class_2338{x=1893, y=105, z=2203}
+[04:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5406ms or 108 ticks behind
+[04:27:06] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1764, y=133, z=2343}
+[04:27:06] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=1764, y=133, z=2343}
+[04:27:55] [Worker-Main-17/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.8740077f,range:8,source:{pos:[I;-150,-54,-359],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-17/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.826741f,range:8,source:{pos:[I;-154,-53,-365],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.660372f,range:8,source:{pos:[I;-158,-53,-362],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.9118114f,range:8,source:{pos:[I;-160,-49,-366],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-158,-48,-366],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-178,-59,-363],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.91608f,range:8,source:{pos:[I;-174,-59,-369],type:"minecraft:block"}}]
+[04:27:55] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-59,-356],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.6380615f,range:8,source:{pos:[I;-153,-58,-371],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.802702f,range:8,source:{pos:[I;-154,-53,-378],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.527325f,range:8,source:{pos:[I;-153,-53,-374],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:1.0f,range:8,source:{pos:[I;-152,-53,-371],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.061569f,range:8,source:{pos:[I;-152,-53,-370],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.152014f,range:8,source:{pos:[I;-157,-51,-371],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.3484693f,range:8,source:{pos:[I;-170,-58,-380],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.7416575f,range:8,source:{pos:[I;-170,-57,-377],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.3052635f,range:8,source:{pos:[I;-160,-52,-370],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.5970345f,range:8,source:{pos:[I;-187,-59,-379],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.3011737f,range:8,source:{pos:[I;-180,-59,-376],type:"minecraft:block"}}]
+[04:27:56] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:7.063859f,range:8,source:{pos:[I;-175,-59,-379],type:"minecraft:block"}}]
