@@ -12853,6 +12853,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-02-28 05:08:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-02-28 04:39:29 +0000"
@@ -12886,6 +12892,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
@@ -12967,6 +12979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-28 04:47:26 +0000"
@@ -12988,6 +13006,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
@@ -13075,6 +13099,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-02-28 05:12:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13090,6 +13120,12 @@
   "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-28 05:08:20 +0000"
     },
     "done": true
   },
@@ -13279,6 +13315,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13333,6 +13375,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-28 04:39:29 +0000"
@@ -13369,6 +13417,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-02-28 04:37:50 +0000"
@@ -13399,9 +13453,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-02-28 05:08:29 +0000"
     },
     "done": true
   },
@@ -13495,6 +13561,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_axe": {
+    "criteria": {
+      "has_wooden_axe": "2025-02-28 05:03:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13528,6 +13600,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
@@ -13741,6 +13819,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/gray_bed_from_wool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-28 04:39:29 +0000"
@@ -13756,6 +13840,12 @@
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
@@ -13807,9 +13897,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_axe": {
+    "criteria": {
+      "has_wooden_axe": "2025-02-28 05:03:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
     },
     "done": true
   },
@@ -14077,6 +14179,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
       "has_core_specification_item": "2025-02-28 04:26:54 +0000"
@@ -14113,6 +14221,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
@@ -14143,6 +14257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
@@ -14152,6 +14272,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-02-28 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-28 05:08:20 +0000"
     },
     "done": true
   },
@@ -14473,6 +14599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-28 05:14:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-02-28 04:05:52 +0000"
@@ -14575,6 +14707,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-02-28 05:14:03 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-28 04:26:54 +0000"
@@ -14638,6 +14776,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-02-28 05:08:20 +0000"
     },
     "done": true
   },

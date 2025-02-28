@@ -3107,3 +3107,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
 [04:53:52] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
 [04:57:40] [Server thread/INFO]: elpatomaster has made the advancement [Blossoming Discoveries]
+[05:09:26] [Server thread/INFO]: elpatomaster has made the advancement [Cover Me with Diamonds]
