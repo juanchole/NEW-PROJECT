@@ -3108,3 +3108,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:53:52] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
 [04:57:40] [Server thread/INFO]: elpatomaster has made the advancement [Blossoming Discoveries]
 [05:09:26] [Server thread/INFO]: elpatomaster has made the advancement [Cover Me with Diamonds]
+[05:35:18] [Server thread/INFO]: No return portal found
+[05:35:18] [Server thread/INFO]: Juanchole10 has made the advancement [Nether Depths Upgrade]
+[05:35:18] [Server thread/INFO]: Juanchole10 has made the advancement [We Need to Go Deeper]
+[05:35:18] [Server thread/INFO]: Juanchole10 has made the advancement [Time for a Sweat]
+[05:35:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[05:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind

@@ -12037,6 +12037,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-02-28 05:04:34 +0000"
@@ -12064,6 +12070,12 @@
   "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
     "criteria": {
       "has_iron_furnace": "2025-02-28 04:23:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12096,6 +12108,12 @@
       "carrot": "2025-02-28 05:06:23 +0000"
     },
     "done": false
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
   },
   "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
@@ -12130,6 +12148,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
     },
     "done": true
   },
@@ -12242,6 +12266,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-02-28 04:08:41 +0000"
@@ -12290,6 +12326,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
@@ -12308,6 +12350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -12320,9 +12368,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-02-28 04:58:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12338,6 +12398,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-02-28 04:08:41 +0000"
@@ -12347,6 +12413,12 @@
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12386,6 +12458,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-02-28 04:08:41 +0000"
@@ -12422,6 +12500,12 @@
     },
     "done": false
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-02-28 04:13:24 +0000"
@@ -12431,6 +12515,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-02-28 04:10:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12461,6 +12551,12 @@
   "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
     "criteria": {
       "has_iron_shovel": "2025-02-28 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-02-28 05:25:26 +0000"
     },
     "done": true
   },
@@ -12536,6 +12632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-28 05:23:47 +0000"
@@ -12563,6 +12665,12 @@
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12608,6 +12716,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
@@ -12626,6 +12740,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-02-28 05:35:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-02-28 04:54:03 +0000"
@@ -12635,6 +12767,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12662,6 +12800,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-02-28 05:28:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -12671,6 +12815,12 @@
   "betternether:recipes/tools/nether_ruby_helmet": {
     "criteria": {
       "has_nether_ruby": "2025-02-28 04:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12686,9 +12836,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
       "has_red_mushroom": "2025-02-28 04:58:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12701,6 +12863,12 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
     "criteria": {
       "has_rail": "2025-02-28 05:23:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-02-28 05:29:51 +0000"
     },
     "done": true
   },
@@ -12719,6 +12887,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
     },
     "done": true
   },
@@ -12758,6 +12938,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-02-28 04:13:24 +0000"
@@ -12791,6 +12983,12 @@
   "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12848,9 +13046,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-02-28 05:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-02-28 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12872,6 +13100,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-28 05:09:26 +0000"
@@ -12887,6 +13121,12 @@
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -12932,6 +13172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-02-28 04:31:42 +0000"
@@ -12974,9 +13220,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-02-28 04:54:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-02-28 05:28:19 +0000"
     },
     "done": true
   },
@@ -13016,6 +13274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-28 05:28:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_shovel": {
     "criteria": {
       "has_nether_ruby": "2025-02-28 04:40:35 +0000"
@@ -13052,6 +13316,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2025-02-28 05:09:26 +0000"
@@ -13085,6 +13355,12 @@
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-28 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -13142,6 +13418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sugar": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
@@ -13181,6 +13463,30 @@
   "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-02-28 05:25:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-02-28 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -13310,9 +13616,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:35:02 +0000"
     },
     "done": true
   },
@@ -13331,6 +13649,12 @@
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-02-28 04:39:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-02-28 05:35:00 +0000"
     },
     "done": true
   },
@@ -13391,6 +13715,12 @@
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
     "criteria": {
       "has_tag_minecraft_wooden_trapdoors": "2025-02-28 05:13:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-28 05:28:19 +0000"
     },
     "done": true
   },
@@ -13565,6 +13895,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-28 05:25:26 +0000"
     },
     "done": true
   },
