@@ -17389,6 +17389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-28 23:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-28 23:15:36 +0000"
@@ -17425,6 +17431,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-02-28 23:20:11 +0000"
@@ -17443,9 +17455,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2025-02-28 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
     },
     "done": true
   },
@@ -17479,6 +17509,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2025-02-28 23:20:11 +0000"
@@ -17488,6 +17524,12 @@
   "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2025-02-28 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 23:40:37 +0000"
     },
     "done": true
   },
@@ -17509,6 +17551,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-02-28 23:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
@@ -17518,6 +17566,24 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:alloysmelter": {
+    "criteria": {
+      "crit_0": "2025-02-28 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-02-28 23:40:37 +0000"
     },
     "done": true
   },
@@ -17551,6 +17617,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-02-28 23:20:11 +0000"
@@ -17569,9 +17641,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
     },
     "done": true
   },
@@ -17593,6 +17683,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_rubber_log_stripped": "2025-02-28 22:58:37 +0000"
@@ -17605,9 +17701,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-02-28 23:10:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
     },
     "done": true
   },
@@ -17617,15 +17725,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-28 23:33:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-02-28 23:20:11 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-28 23:15:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-02-28 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-28 23:36:04 +0000"
     },
     "done": true
   },
@@ -17656,6 +17800,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
     },
     "done": true
   },
@@ -17701,9 +17857,21 @@
     },
     "done": true
   },
+  "indrev:circuit_mk1": {
+    "criteria": {
+      "checkInv": "2025-02-28 23:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-28 23:15:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
     },
     "done": true
   },
@@ -17716,6 +17884,12 @@
   "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
     "criteria": {
       "has_brass_ingots": "2025-02-28 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
     },
     "done": true
   },

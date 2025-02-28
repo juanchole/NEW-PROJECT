@@ -2519,3 +2519,5 @@ BCLib - The End  BiomeSource (6fe28058)
 [23:22:49] [Server thread/INFO]: Villager class_1646['Wesley'/6428, l='ServerLevel[world]', x=634.83, y=87.17, z=433.39] died, message: 'Wesley tried to swim in lava'
 [23:22:49] [Server thread/INFO]: Named entity class_1646['Wesley'/6428, l='ServerLevel[world]', x=634.83, y=87.17, z=433.39] died: Wesley tried to swim in lava
 [23:23:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[23:28:45] [Server thread/INFO]: Juanchole10 has made the advancement [Alloying Bliss]
+[23:33:59] [Server thread/INFO]: Juanchole10 has made the advancement [First Machines]
