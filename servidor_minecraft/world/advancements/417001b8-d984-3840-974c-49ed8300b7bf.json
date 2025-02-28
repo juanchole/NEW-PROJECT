@@ -15016,5 +15016,17 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-02-28 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-02-28 23:17:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
