@@ -2831,6 +2831,7 @@
       "minecraft:vindicator": "2025-02-26 17:19:25 +0000",
       "minecraft:piglin_brute": "2025-02-26 16:06:23 +0000",
       "minecraft:spider": "2025-02-27 04:57:38 +0000",
+      "minecraft:phantom": "2025-02-28 23:50:30 +0000",
       "minecraft:witch": "2025-02-26 17:24:05 +0000",
       "minecraft:husk": "2025-02-27 03:06:41 +0000",
       "minecraft:cave_spider": "2025-02-27 02:42:39 +0000",
@@ -15022,15 +15023,45 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-02-28 23:50:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2025-02-28 23:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-02-28 23:22:28 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-02-28 23:50:31 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-02-28 23:53:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-02-28 23:22:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-02-28 23:47:54 +0000"
     },
     "done": true
   },
@@ -15058,15 +15089,33 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-28 23:50:30 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-28 22:50:51 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-28 23:50:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-02-28 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-28 23:50:31 +0000"
     },
     "done": true
   },

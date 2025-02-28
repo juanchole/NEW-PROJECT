@@ -17431,6 +17431,12 @@
     },
     "done": true
   },
+  "modern_industrialization:steam_mining_drill": {
+    "criteria": {
+      "checkInv": "2025-02-28 23:48:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
@@ -17443,9 +17449,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/ruby_gem_from_ruby_ore_with_water": {
+    "criteria": {
+      "has_tag_c_ruby_ores": "2025-02-28 23:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-28 23:51:18 +0000"
     },
     "done": true
   },
@@ -17464,6 +17482,12 @@
   "techreborn:recipes/crafting_table/parts/digital_display": {
     "criteria": {
       "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-02-28 23:55:02 +0000"
     },
     "done": true
   },
@@ -17767,6 +17791,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust_from_ore": {
+    "criteria": {
+      "has_tag_c_ruby_ores": "2025-02-28 23:51:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/painting_tool": {
     "criteria": {
       "has_bronze_ingot": "2025-02-28 23:36:04 +0000"
@@ -17806,6 +17836,12 @@
   "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
     "criteria": {
       "has_bronze_ingot": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-28 23:51:18 +0000"
     },
     "done": true
   },
@@ -17890,6 +17926,12 @@
   "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-02-28 23:55:02 +0000"
     },
     "done": true
   },
