@@ -2482,3 +2482,13 @@ BCLib - Nether BiomeSource (cc80ce8)
 [07:29:16] [Server thread/INFO]: elpatomaster has made the advancement [Accumulating]
 [07:30:21] [Server thread/INFO]: Juanchole10 has made the advancement [False Water]
 [07:41:33] [Server thread/INFO]: elpatomaster has made the advancement [It's Chargin' Time !]
+[07:47:47] [Server thread/WARN]: Rejecting UseItemOnPacket from Juanchole10: Location (5175.875, 64.6754942536354, 3446.214930355549) too far away from hit block class_2338{x=5174, y=64, z=3446}.
+[07:51:14] [Server thread/WARN]: Rejecting UseItemOnPacket from elpatomaster: Location (5181.375, 63.581534802913666, 3448.4185411036015) too far away from hit block class_2338{x=5182, y=63, z=3448}.
+[07:56:52] [Server thread/INFO]: Juanchole10 lost connection: Disconnected
+[07:56:52] [Server thread/INFO]: Juanchole10 left the game
+[07:56:52] [Server thread/INFO]: remove player wand
+[07:56:52] [Server thread/INFO]: Updating all forceload tickets for ac1fe722-2f3c-3b58-a94a-e5d06a7b016d
+[07:56:54] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[07:56:54] [Server thread/INFO]: elpatomaster left the game
+[07:56:54] [Server thread/INFO]: remove player wand
+[07:56:54] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf

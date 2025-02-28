@@ -17053,6 +17053,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-02-28 07:43:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-28 07:41:40 +0000"
@@ -17068,6 +17074,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-02-28 07:41:23 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_pickaxe": {
+    "criteria": {
+      "has_items": "2025-02-28 07:50:31 +0000"
     },
     "done": true
   },
@@ -17152,6 +17164,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-28 07:40:48 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_sword": {
+    "criteria": {
+      "has_items": "2025-02-28 07:50:31 +0000"
     },
     "done": true
   },
@@ -17278,6 +17296,12 @@
   "computercraft:recipes/redstone/turtle_normal/minecraft/diamond_sword": {
     "criteria": {
       "has_items": "2025-02-28 07:42:09 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 07:50:31 +0000"
     },
     "done": true
   },
