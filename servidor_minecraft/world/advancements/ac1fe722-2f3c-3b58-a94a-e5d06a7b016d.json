@@ -14539,9 +14539,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-28 06:09:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
     "criteria": {
       "has_tag_c_galena_ores": "2025-02-28 05:48:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-28 06:09:52 +0000"
     },
     "done": true
   },

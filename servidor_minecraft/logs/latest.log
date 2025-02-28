@@ -3442,3 +3442,22 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:05:59] [Server thread/INFO]: remove player wand
 [06:05:59] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
 [06:05:59] [Server thread/WARN]: handleDisconnection() called twice
+[06:07:39] [Server thread/INFO]: [Handshake] Sending channel query
+[06:07:39] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[06:07:39] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[06:07:40] [Server thread/INFO]: elpatomaster[/127.93.248.230:34557] logged in with entity id 65212 at (5176.918148814056, 68.0, 3473.4488724448724)
+[06:07:40] [Server thread/INFO]: Sending server config values to client
+[06:07:40] [Server thread/INFO]: Syncing config to elpatomaster (417001b8-d984-3840-974c-49ed8300b7bf)
+[06:07:40] [Server thread/INFO]: Loading config from file...
+[06:07:40] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06:07:40] [Server thread/INFO]: elpatomaster joined the game
+[06:07:40] [Server thread/INFO]: Loading Configs for Sortilege
+[06:07:40] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[06:07:40] [Server thread/INFO]: PLAYER_JOIN
+[06:07:40] [Server thread/INFO]: add_player wand
+[06:07:40] [Server thread/INFO]: config sent
+[06:07:40] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[06:07:43] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[06:07:46] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[06:07:46] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[06:07:50] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
