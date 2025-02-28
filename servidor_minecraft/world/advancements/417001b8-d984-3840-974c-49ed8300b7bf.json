@@ -12085,6 +12085,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/rock_cutter": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lamp_led": {
     "criteria": {
       "has_glowstone_dust": "2025-02-28 04:42:23 +0000"
@@ -12199,15 +12205,39 @@
     },
     "done": true
   },
+  "techreborn:electricfurnace": {
+    "criteria": {
+      "crit_0": "2025-02-28 06:01:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-28 04:49:32 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-28 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-28 05:56:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_leggings": {
     "criteria": {
       "has_nether_ruby": "2025-02-28 04:40:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-28 05:55:47 +0000"
     },
     "done": true
   },
@@ -12272,9 +12302,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/upgrade/energy_storage_upgrade": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/soul_robe_helmet": {
     "criteria": {
       "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/low_voltage_su": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
     },
     "done": true
   },
@@ -12347,6 +12395,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
     },
     "done": true
   },
@@ -12632,6 +12686,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-02-28 04:08:41 +0000"
@@ -12800,6 +12860,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-28 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/water_mill": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-28 05:55:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-02-28 04:31:42 +0000"
@@ -12923,6 +12995,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_diamond_dust": "2025-02-28 05:56:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-28 05:55:47 +0000"
     },
     "done": true
   },
@@ -13070,6 +13154,12 @@
     },
     "done": true
   },
+  "techreborn:industrialsolar": {
+    "criteria": {
+      "crit_0": "2025-02-28 06:01:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
@@ -13127,6 +13217,12 @@
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
     },
     "done": true
   },
@@ -13202,6 +13298,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-02-28 05:04:34 +0000"
@@ -13232,9 +13334,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
     "criteria": {
       "has_rubber_log": "2025-02-28 05:49:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-28 05:55:47 +0000"
     },
     "done": true
   },
@@ -13442,6 +13556,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-28 05:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -13487,6 +13607,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/electric_treetap": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
     },
     "done": true
   },
@@ -13553,6 +13679,12 @@
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:generator": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:55:48 +0000"
     },
     "done": true
   },
@@ -13628,6 +13760,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/basic_jackhammer": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
@@ -13655,6 +13793,12 @@
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_bone_meal": "2025-02-28 05:04:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:cellbattery": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:55:11 +0000"
     },
     "done": true
   },
@@ -13826,6 +13970,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/basic_chainsaw": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_sap": {
     "criteria": {
       "has_sap": "2025-02-28 05:49:39 +0000"
@@ -13865,6 +14015,12 @@
   "ae2:recipes/misc/network/cables/smart_white": {
     "criteria": {
       "has_dyes/black": "2025-02-28 05:04:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alloy_smelter": {
+    "criteria": {
+      "has_electric_furnace": "2025-02-28 06:01:28 +0000"
     },
     "done": true
   },
@@ -13937,6 +14093,18 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-02-28 05:50:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel": {
+    "criteria": {
+      "has_industrial_solar_panel": "2025-02-28 05:58:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/thermal_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-02-28 05:55:47 +0000"
     },
     "done": true
   },
@@ -14096,6 +14264,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_diamond_dusts": "2025-02-28 05:56:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-28 04:13:24 +0000"
@@ -14117,6 +14291,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-28 04:08:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/basic_drill": {
+    "criteria": {
+      "has_red_cell_battery": "2025-02-28 05:55:11 +0000"
     },
     "done": true
   },
