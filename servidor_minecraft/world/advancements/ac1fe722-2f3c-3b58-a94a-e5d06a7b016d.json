@@ -12859,6 +12859,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-28 05:19:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-02-28 04:39:29 +0000"
@@ -12892,6 +12898,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
     },
     "done": true
   },
@@ -13045,6 +13057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-28 05:23:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-28 04:05:52 +0000"
@@ -13087,6 +13105,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
     "criteria": {
       "has_diamond_axe": "2025-02-28 04:41:31 +0000"
@@ -13096,6 +13120,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13183,6 +13213,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13192,6 +13228,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-02-28 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-28 05:23:42 +0000"
     },
     "done": true
   },
@@ -13210,6 +13252,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13243,6 +13291,18 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-28 05:24:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2025-02-28 04:37:50 +0000"
@@ -13258,6 +13318,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-02-28 05:19:41 +0000"
     },
     "done": true
   },
@@ -13339,6 +13405,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13366,6 +13438,12 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13453,6 +13531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-02-28 05:08:20 +0000"
@@ -13465,9 +13549,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-28 05:23:42 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_anvil": "2025-02-28 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13501,6 +13597,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
@@ -13525,9 +13627,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-02-28 05:21:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-28 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-28 05:19:41 +0000"
     },
     "done": true
   },
@@ -13585,15 +13705,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:05:52 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13612,6 +13750,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-02-28 05:23:42 +0000"
     },
     "done": true
   },
@@ -13645,6 +13789,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
     "criteria": {
       "has_diamond_sword": "2025-02-28 04:28:30 +0000"
@@ -13666,6 +13816,12 @@
   "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13717,6 +13873,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-28 04:37:50 +0000"
@@ -13753,6 +13915,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
@@ -13774,6 +13942,18 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-28 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -13855,6 +14035,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-02-28 04:05:52 +0000"
@@ -13894,6 +14080,12 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-02-28 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-02-28 05:24:04 +0000"
     },
     "done": true
   },
@@ -13975,6 +14167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 05:23:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-28 04:47:26 +0000"
@@ -14050,6 +14248,12 @@
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-28 04:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-28 05:24:04 +0000"
     },
     "done": true
   },
@@ -14155,6 +14359,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:05:52 +0000"
@@ -14215,6 +14425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
@@ -14263,9 +14479,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-28 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-28 05:19:41 +0000"
     },
     "done": true
   },
@@ -14278,6 +14506,12 @@
   "techreborn:recipes/compressor/iron_plate_from_block": {
     "criteria": {
       "has_iron_block": "2025-02-28 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-02-28 05:24:04 +0000"
     },
     "done": true
   },
@@ -14437,6 +14671,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-02-28 05:24:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
       "has_bowl": "2025-02-28 04:05:11 +0000"
@@ -14446,6 +14686,12 @@
   "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-28 04:39:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-02-28 05:19:54 +0000"
     },
     "done": true
   },
@@ -14464,6 +14710,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
     "criteria": {
       "has_diamond_sword": "2025-02-28 04:28:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 05:20:18 +0000"
     },
     "done": true
   },
@@ -14668,6 +14920,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-28 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-02-28 05:23:42 +0000"
     },
     "done": true
   },
