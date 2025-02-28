@@ -14674,6 +14674,12 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-02-28 07:41:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:batbox": {
     "criteria": {
       "crit_0": "2025-02-28 07:29:16 +0000"
