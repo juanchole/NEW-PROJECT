@@ -12236,6 +12236,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/mv_transformer": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 05:54:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
@@ -12293,6 +12299,12 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-28 05:50:16 +0000"
     },
     "done": true
   },
@@ -12410,6 +12422,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
+    "criteria": {
+      "has_grinder": "2025-02-28 05:46:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
@@ -12491,6 +12509,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-28 05:54:43 +0000"
     },
     "done": true
   },
@@ -12788,6 +12812,12 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:49:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -12851,6 +12881,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-02-28 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-02-28 05:48:51 +0000"
     },
     "done": true
   },
@@ -13136,6 +13172,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-02-28 05:49:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -13172,6 +13214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-02-28 05:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-02-28 05:25:26 +0000"
@@ -13184,6 +13232,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-02-28 05:49:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-02-28 04:12:16 +0000"
@@ -13193,6 +13247,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-28 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2025-02-28 05:49:39 +0000"
     },
     "done": true
   },
@@ -13370,6 +13430,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-28 05:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -13397,6 +13463,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-02-28 05:49:46 +0000"
     },
     "done": true
   },
@@ -13466,6 +13538,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2025-02-28 05:49:39 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-02-28 05:25:26 +0000"
@@ -13532,6 +13610,12 @@
     },
     "done": true
   },
+  "techreborn:rubber": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:54:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2025-02-28 04:31:42 +0000"
@@ -13553,6 +13637,12 @@
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-02-28 04:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-02-28 05:49:46 +0000"
     },
     "done": true
   },
@@ -13700,6 +13790,12 @@
     },
     "done": true
   },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:48:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_pickaxe": {
     "criteria": {
       "has_nether_ruby": "2025-02-28 04:40:35 +0000"
@@ -13727,6 +13823,12 @@
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-02-28 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2025-02-28 05:49:39 +0000"
     },
     "done": true
   },
@@ -13766,6 +13868,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-02-28 05:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
@@ -13775,6 +13883,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:grinder": {
+    "criteria": {
+      "crit_0": "2025-02-28 05:46:44 +0000"
     },
     "done": true
   },
@@ -13802,6 +13916,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-28 05:50:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-02-28 04:53:47 +0000"
@@ -13811,6 +13931,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-28 04:54:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-28 05:50:16 +0000"
     },
     "done": true
   },
@@ -13856,6 +13982,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-02-28 05:54:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-02-28 04:53:47 +0000"
@@ -13871,6 +14003,12 @@
   "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
     "criteria": {
       "has_pyrite_dust": "2025-02-28 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lv_transformer": {
+    "criteria": {
+      "has_insulated_copper_cable": "2025-02-28 05:54:54 +0000"
     },
     "done": true
   },
