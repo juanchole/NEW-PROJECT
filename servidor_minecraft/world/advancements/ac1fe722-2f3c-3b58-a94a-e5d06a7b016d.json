@@ -21752,6 +21752,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-01 23:45:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/pool_minecart": {
     "criteria": {
       "has_item": "2025-03-01 22:05:56 +0000"
@@ -21905,6 +21911,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-01 22:47:21 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-03-01 23:35:41 +0000"
     },
     "done": true
   },

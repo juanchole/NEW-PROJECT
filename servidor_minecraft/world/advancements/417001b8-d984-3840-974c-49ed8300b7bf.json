@@ -19679,6 +19679,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-03-01 23:35:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 23:21:22 +0000"
@@ -19871,6 +19877,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
+    "criteria": {
+      "has_rubber_slab": "2025-03-01 23:41:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_the_recipe": "2025-03-01 23:30:16 +0000"
@@ -20012,6 +20024,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-03-01 23:35:44 +0000"
     },
     "done": true
   },
