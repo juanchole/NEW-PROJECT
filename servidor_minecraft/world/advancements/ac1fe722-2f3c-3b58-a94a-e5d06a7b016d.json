@@ -15359,6 +15359,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-03-01 00:10:12 +0000",
+      "betternether:nether_swampland": "2025-03-01 05:07:08 +0000",
       "betternether:upside_down_forest": "2025-02-28 05:35:18 +0000",
       "betternether:sulfuric_bone_reef": "2025-03-01 00:11:35 +0000"
     },
@@ -19648,9 +19649,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-01 05:03:22 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
     "criteria": {
       "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
     },
     "done": true
   },
@@ -19666,6 +19691,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
     "criteria": {
       "has_quartz_glass": "2025-03-01 04:36:03 +0000"
@@ -19678,9 +19715,39 @@
     },
     "done": true
   },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-03-01 04:57:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-03-01 04:56:28 +0000"
     },
     "done": true
   },
@@ -19690,9 +19757,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-03-01 05:05:36 +0000"
     },
     "done": true
   },
