@@ -3093,3 +3093,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:59:46] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to 4867.500000, -33.500000, 3426.500000]
 [16:59:47] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 4867, -34, 3427, minecraft:overworld
 [17:00:46] [Server thread/INFO]: elpatomaster has made the advancement [The Secrets of Enchanting]
+[17:04:32] [Server thread/INFO]: elpatomaster has made the advancement [Full Moon in a Pocket]
+[17:06:21] [Server thread/INFO]: elpatomaster has made the advancement [The Great Sage, Heaven's Equal]
+[17:07:29] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[17:07:29] [Server thread/INFO]: elpatomaster left the game
+[17:07:29] [Server thread/INFO]: remove player wand
+[17:07:29] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[17:11:03] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17:11:17] [pool-13-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands]] from pos class_2338{x=6187, y=70, z=3707}
