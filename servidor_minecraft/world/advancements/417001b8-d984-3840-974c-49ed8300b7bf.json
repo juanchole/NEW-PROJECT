@@ -15299,5 +15299,17 @@
     },
     "done": true
   },
+  "techreborn:ironalloyfurnace": {
+    "criteria": {
+      "crit_0": "2025-03-01 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:alloysmelter": {
+    "criteria": {
+      "crit_0": "2025-03-01 02:52:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
