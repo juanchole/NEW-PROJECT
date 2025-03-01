@@ -22262,6 +22262,18 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/handcar": {
+    "criteria": {
+      "has_item": "2025-03-01 23:33:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
+    "criteria": {
+      "has_rubber_slab": "2025-03-01 23:34:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_the_recipe": "2025-03-01 22:47:15 +0000"
@@ -22535,6 +22547,12 @@
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-03-01 22:47:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/wrench": {
+    "criteria": {
+      "wrench": "2025-03-01 23:25:50 +0000"
     },
     "done": true
   },
