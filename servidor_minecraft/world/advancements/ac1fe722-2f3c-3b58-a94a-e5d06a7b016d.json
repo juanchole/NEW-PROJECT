@@ -19841,6 +19841,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_shovel": {
+    "criteria": {
+      "has_items": "2025-03-01 05:45:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_helmet": {
     "criteria": {
       "has_nether_ruby": "2025-03-01 04:57:36 +0000"
@@ -19934,6 +19940,12 @@
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/sky_steel_ingot_from_sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
     },
     "done": true
   },
@@ -20111,6 +20123,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_axe": {
+    "criteria": {
+      "has_items": "2025-03-01 05:45:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2025-03-01 04:56:28 +0000"
@@ -20132,6 +20150,12 @@
   "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/building_blocks/crafting/sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
     },
     "done": true
   },
