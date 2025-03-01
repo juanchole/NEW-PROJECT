@@ -14981,6 +14981,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-02-28 23:22:23 +0000"
@@ -15002,6 +15008,18 @@
   "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-02-28 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
     },
     "done": true
   },
@@ -15041,15 +15059,63 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-03-01 00:37:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-02-28 23:22:28 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_chestplate": {
     "criteria": {
       "has_phantom_bones": "2025-02-28 23:50:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
     },
     "done": true
   },
@@ -15077,6 +15143,12 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-02-28 23:59:38 +0000"
@@ -15089,15 +15161,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_tin": {
     "criteria": {
       "has_raw_tin_ores": "2025-02-28 22:59:19 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/block_breaker": {
     "criteria": {
       "has_hopper": "2025-03-01 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
     },
     "done": true
   },
@@ -15110,6 +15200,18 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-28 22:50:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
     },
     "done": true
   },
@@ -15131,9 +15233,27 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-02-28 22:59:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-03-01 00:39:02 +0000"
     },
     "done": true
   },

@@ -17435,6 +17435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -17450,6 +17456,12 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-03-01 00:04:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-01 00:41:14 +0000"
     },
     "done": true
   },
@@ -17489,9 +17501,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-01 00:41:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -17504,6 +17528,12 @@
   "techreborn:recipes/industrial_grinder/ruby_gem_from_ruby_ore_with_water": {
     "criteria": {
       "has_tag_c_ruby_ores": "2025-02-28 23:51:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -17621,9 +17651,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-01 00:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -17657,6 +17705,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -17687,6 +17741,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-03-01 00:41:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -17711,6 +17771,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-01 00:41:14 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_highland": {
     "criteria": {
       "has_core_specification_item": "2025-02-28 23:40:37 +0000"
@@ -17729,6 +17801,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bone_wall_stonecutting": {
     "criteria": {
       "has_block.betternether.bone_block": "2025-03-01 00:13:58 +0000"
@@ -17741,9 +17819,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-02-28 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-01 00:41:14 +0000"
     },
     "done": true
   },
@@ -17780,6 +17870,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-02-28 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -17861,6 +17957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -17909,6 +18011,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -17942,6 +18050,12 @@
   "betternether:recipes/building_blocks/bone_block_bone_stairs": {
     "criteria": {
       "has_bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -18011,6 +18125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
@@ -18053,6 +18173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-02-28 23:10:16 +0000"
@@ -18068,6 +18194,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-03-01 00:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -18116,6 +18248,12 @@
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },
@@ -18203,6 +18341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-28 23:15:36 +0000"
@@ -18281,6 +18425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
+    },
+    "done": true
+  },
   "modern_industrialization:forge_hammer": {
     "criteria": {
       "checkInv": "2025-02-28 23:01:49 +0000"
@@ -18290,6 +18440,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-03-01 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-01 00:42:35 +0000"
     },
     "done": true
   },

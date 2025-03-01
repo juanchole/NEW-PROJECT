@@ -268,3 +268,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:34:20] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [00:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [00:35:28] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[00:39:02] [Server thread/INFO]: elpatomaster has made the advancement [Cincinnasite Ore]
