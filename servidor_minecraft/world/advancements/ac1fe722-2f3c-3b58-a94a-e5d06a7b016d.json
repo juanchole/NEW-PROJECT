@@ -19696,5 +19696,11 @@
     },
     "done": true
   },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2025-03-01 04:40:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

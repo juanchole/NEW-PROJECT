@@ -15678,6 +15678,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-01 04:40:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-01 04:34:49 +0000"

@@ -2511,3 +2511,7 @@ BCLib - Nether BiomeSource (718b4e19)
 [04:35:41] [Server thread/INFO]: Villager class_1646['Lesley'/155, l='ServerLevel[world]', x=5148.52, y=63.05, z=3463.30] died, message: 'Lesley tried to swim in lava'
 [04:35:41] [Server thread/INFO]: Named entity class_1646['Lesley'/155, l='ServerLevel[world]', x=5148.52, y=63.05, z=3463.30] died: Lesley tried to swim in lava
 [04:39:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[04:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[04:44:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[04:47:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
