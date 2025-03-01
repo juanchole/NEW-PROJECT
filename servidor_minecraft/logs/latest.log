@@ -2540,3 +2540,26 @@ BCLib - Nether BiomeSource (718b4e19)
 [19:26:01] [Server thread/INFO]: remove player wand
 [19:26:01] [Server thread/INFO]: Updating all forceload tickets for ac1fe722-2f3c-3b58-a94a-e5d06a7b016d
 [19:26:02] [Server thread/WARN]: handleDisconnection() called twice
+[19:34:32] [Server thread/INFO]: elpatomaster has made the advancement [Tunnel Treasures]
+[19:34:54] [Server thread/INFO]: elpatomaster has made the advancement [Stealer of Souls]
+[19:39:47] [Server thread/INFO]: elpatomaster has made the advancement [A Bone to Pick]
+[19:44:48] [Server thread/INFO]: [Handshake] Sending channel query
+[19:44:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[19:44:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[19:44:48] [Server thread/INFO]: Juanchole10[/127.213.29.2:47423] logged in with entity id 17830 at (5112.642211598483, 69.0, 3435.6936897629607)
+[19:44:48] [Server thread/INFO]: Sending server config values to client
+[19:44:48] [Server thread/INFO]: Syncing config to Juanchole10 (ac1fe722-2f3c-3b58-a94a-e5d06a7b016d)
+[19:44:48] [Server thread/INFO]: Loading config from file...
+[19:44:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:44:49] [Server thread/INFO]: Juanchole10 joined the game
+[19:44:49] [Server thread/INFO]: Loading Configs for Sortilege
+[19:44:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:44:49] [Server thread/INFO]: Updating all forceload tickets for ac1fe722-2f3c-3b58-a94a-e5d06a7b016d
+[19:44:49] [Server thread/INFO]: PLAYER_JOIN
+[19:44:49] [Server thread/INFO]: add_player wand
+[19:44:49] [Server thread/INFO]: config sent
+[19:44:52] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[19:45:02] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Juanchole10 -> Global
+[19:45:02] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Juanchole10. Claiming: GRAVE / Robbing: INVENTORY
+[19:45:09] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[19:48:21] [Server thread/INFO]: elpatomaster has made the advancement [Need A Map?]

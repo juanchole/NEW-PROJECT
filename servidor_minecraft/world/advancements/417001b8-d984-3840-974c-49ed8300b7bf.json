@@ -592,6 +592,7 @@
       "rocky_reef": "2025-02-27 02:53:40 +0000",
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
       "mycotoxic_undergrowth": "2025-02-28 04:41:08 +0000",
+      "ochard": "2025-03-01 19:38:49 +0000",
       "highland_fields": "2025-02-28 03:52:18 +0000",
       "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
@@ -607,6 +608,7 @@
       "saguaro_desert": "2025-02-26 17:29:06 +0000",
       "temperate_grove": "2025-02-28 03:51:52 +0000",
       "baobab_savanna": "2025-02-26 18:01:03 +0000",
+      "old_growth_bayou": "2025-03-01 19:33:14 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -626,6 +628,7 @@
       "marsh": "2025-02-27 04:44:17 +0000",
       "rocky_reef": "2025-02-27 02:53:40 +0000",
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
+      "ochard": "2025-03-01 19:38:49 +0000",
       "highland_fields": "2025-02-28 03:52:18 +0000",
       "tropical_river": "2025-02-26 17:17:24 +0000",
       "magnolia_highlands": "2025-02-26 17:06:32 +0000",
@@ -640,6 +643,7 @@
       "saguaro_desert": "2025-02-26 17:29:06 +0000",
       "temperate_grove": "2025-02-28 03:51:52 +0000",
       "baobab_savanna": "2025-02-26 18:01:03 +0000",
+      "old_growth_bayou": "2025-03-01 19:33:14 +0000",
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
@@ -3934,7 +3938,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-26 15:57:53 +0000",
-      "opened_chest": "2025-02-26 15:59:37 +0000"
+      "opened_chest": "2025-02-26 15:59:37 +0000",
+      "opened_cart": "2025-03-01 19:34:32 +0000"
     },
     "done": false
   },
@@ -17181,6 +17186,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-03-01 19:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-01 19:18:38 +0000"
@@ -17199,6 +17210,18 @@
     },
     "done": true
   },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-03-01 19:34:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
       "has_diamond_block": "2025-03-01 19:20:49 +0000"
@@ -17210,6 +17233,12 @@
       "has_core_specification_item": "2025-03-01 19:20:49 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
