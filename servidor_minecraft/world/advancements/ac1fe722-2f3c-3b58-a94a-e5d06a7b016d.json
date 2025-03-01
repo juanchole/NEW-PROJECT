@@ -21404,6 +21404,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k_alt": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-01 22:12:32 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
     "criteria": {
       "has_fluix_crystal": "2025-03-01 21:53:40 +0000"
@@ -21413,6 +21419,18 @@
   "techreborn:recipes/crafting_table/machine/vacuum_freezer": {
     "criteria": {
       "has_steel_plate": "2025-03-01 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/overclocker_upgrade": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-01 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-03-01 22:05:56 +0000"
     },
     "done": true
   },
@@ -21434,6 +21452,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:electricfurnace": {
+    "criteria": {
+      "crit_0": "2025-03-01 22:02:44 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
     "criteria": {
       "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
@@ -21443,6 +21473,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/bronze_storage_block": {
     "criteria": {
       "has_bronze_ingot": "2025-03-01 21:53:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-03-01 22:06:56 +0000"
     },
     "done": true
   },
@@ -21458,9 +21494,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-01 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-01 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-03-01 22:18:20 +0000"
     },
     "done": true
   },
@@ -21473,6 +21527,24 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/lithium_ion_batpack": {
+    "criteria": {
+      "has_lithium_ion_battery": "2025-03-01 22:09:34 +0000"
     },
     "done": true
   },
@@ -21512,6 +21584,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/falchion": {
     "criteria": {
       "arcane": "2025-03-01 20:05:20 +0000"
@@ -21539,6 +21629,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_steel_plate": "2025-03-01 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust_from_block": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
     },
     "done": true
   },
@@ -21578,6 +21674,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_30k": {
+    "criteria": {
+      "has_water_coolant_cell_10k": "2025-03-01 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/water_mill": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-03-01 22:06:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-03-01 19:58:36 +0000"
@@ -21608,6 +21716,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/basic_solar_panel": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-03-01 22:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_button": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 21:27:21 +0000"
@@ -21617,6 +21743,12 @@
   "twigs:recipes/schist/schist_stairs": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
     },
     "done": true
   },
@@ -21635,6 +21767,12 @@
   "techreborn:recipes/industrial_grinder/coal_from_coal_ore_with_water": {
     "criteria": {
       "has_tag_c_coal_ores": "2025-03-01 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/electrum_plate_from_block": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
     },
     "done": true
   },
@@ -21668,6 +21806,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_mercury": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2025-03-01 21:01:39 +0000"
@@ -21698,9 +21842,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_slab": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-03-01 22:06:56 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-03-01 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
     },
     "done": true
   },
@@ -21731,6 +21899,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-03-01 21:53:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/ingot/electrum_ingot_from_block": {
+    "criteria": {
+      "has_electrum_storage_block": "2025-03-01 22:16:26 +0000"
     },
     "done": true
   },
@@ -21770,9 +21944,21 @@
     },
     "done": true
   },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-03-01 22:05:56 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:generator": {
+    "criteria": {
+      "crit_0": "2025-03-01 22:07:19 +0000"
     },
     "done": true
   },
@@ -21800,9 +21986,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_wall": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-03-01 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
     },
     "done": true
   },
@@ -21827,6 +22025,12 @@
   "techreborn:recipes/compressor/lapis_plate": {
     "criteria": {
       "has_lapis_block": "2025-03-01 21:18:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-03-01 22:18:20 +0000"
     },
     "done": true
   },
@@ -21878,6 +22082,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/thermal_generator": {
+    "criteria": {
+      "has_solid_fuel_generator": "2025-03-01 22:06:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-03-01 21:53:54 +0000"
@@ -21887,6 +22097,12 @@
   "twigs:recipes/schist/polished_schist_bricks_from_schist_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-03-01 22:05:56 +0000"
     },
     "done": true
   },
@@ -21920,6 +22136,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/inscribers": {
     "criteria": {
       "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
@@ -21929,6 +22151,18 @@
   "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_water": {
     "criteria": {
       "has_tag_c_copper_ores": "2025-03-01 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:upgrade": {
+    "criteria": {
+      "crit_0": "2025-03-01 22:12:54 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_electrum_blocks": "2025-03-01 22:16:26 +0000"
     },
     "done": true
   },
