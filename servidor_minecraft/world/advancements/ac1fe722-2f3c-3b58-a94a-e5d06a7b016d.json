@@ -845,7 +845,8 @@
       "bread": "2025-02-26 15:47:48 +0000",
       "golden_apple": "2025-02-27 03:25:30 +0000",
       "golden_carrot": "2025-02-27 03:49:29 +0000",
-      "rabbit_stew": "2025-02-28 04:05:11 +0000"
+      "rabbit_stew": "2025-02-28 04:05:11 +0000",
+      "carrot": "2025-03-01 16:46:20 +0000"
     },
     "done": false
   },
@@ -19649,21 +19650,69 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
+      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-01 05:03:22 +0000"
+      "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
     "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
+      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/orc_skin_recipe": {
+    "criteria": {
+      "got_the_orc_skin": "2025-03-01 04:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-03-01 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-03-01 04:57:29 +0000"
     },
     "done": true
   },
@@ -19673,21 +19722,105 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-01 05:03:22 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-03-01 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-03-01 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-03-01 05:15:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
-    "criteria": {
-      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/deepslate_plate_wall_from_deepslate_stonecutting": {
-    "criteria": {
-      "has_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
@@ -19697,15 +19830,123 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_leggings": {
+  "stoneworks:recipes/building_blocks/deepslate_plate_wall_from_deepslate_stonecutting": {
     "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+      "has_deepslate": "2025-03-01 05:23:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
@@ -19721,21 +19962,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_boots": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_pillar_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
     },
     "done": true
   },
@@ -19775,45 +20004,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_boots": {
-    "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
-    "criteria": {
-      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_alt_item": "2025-03-01 05:24:32 +0000"
     },
     "done": true
   },
@@ -19823,57 +20016,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/handbook_recipe": {
-    "criteria": {
-      "got_the_ender_eye": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_shovel": {
-    "criteria": {
-      "has_items": "2025-03-01 05:45:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_helmet": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:ruby_tools": {
-    "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-03-01 05:15:11 +0000"
     },
     "done": true
   },
@@ -19883,45 +20028,15 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_chestplate": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
-    "criteria": {
-      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/itemfinder": {
-    "criteria": {
-      "has_item": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -19934,24 +20049,6 @@
   "regions_unexplored:recipes/building_blocks/deepslate_prismoss": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "megacells:recipes/misc/crafting/sky_steel_ingot_from_sky_steel_block": {
-    "criteria": {
-      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
-    "criteria": {
-      "has_dusts/quartz": "2025-03-01 04:36:03 +0000"
     },
     "done": true
   },
@@ -19973,12 +20070,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/teleportation_robe_leggings": {
-    "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
@@ -19991,18 +20082,6 @@
     },
     "done": true
   },
-  "betternether:ruby_ore": {
-    "criteria": {
-      "ruby_ore": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_shovel": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
@@ -20012,12 +20091,6 @@
   "stoneworks:recipes/building_blocks/deepslate_shingles_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -20039,18 +20112,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/teleportation_robe_helmet": {
-    "criteria": {
-      "has_ender_eye": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_glass": {
-    "criteria": {
-      "has_quartz_dust": "2025-03-01 04:36:03 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
       "has_deepslate_pillar_trim": "2025-03-01 05:23:59 +0000"
@@ -20063,21 +20124,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
-    "criteria": {
-      "has_magma_block": "2025-03-01 04:57:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -20093,75 +20142,15 @@
     },
     "done": true
   },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_sword": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_void": {
-    "criteria": {
-      "has_core_specification_item": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_brick_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
-  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_axe": {
-    "criteria": {
-      "has_items": "2025-03-01 05:45:45 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-03-01 04:56:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/ender_eye_block": {
-    "criteria": {
-      "has_item": "2025-03-01 05:24:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "megacells:recipes/building_blocks/crafting/sky_steel_block": {
-    "criteria": {
-      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
-    "criteria": {
-      "has_quartz_glass": "2025-03-01 04:36:03 +0000"
     },
     "done": true
   },
@@ -20177,27 +20166,9 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_axe": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/nether_ruby_pickaxe": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -20210,12 +20181,6 @@
   "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
     },
     "done": true
   },
@@ -20237,39 +20202,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
-    "criteria": {
-      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_ruby_block": {
-    "criteria": {
-      "has_nether_ruby": "2025-03-01 04:57:36 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
-    "criteria": {
-      "has_lapis_pile": "2025-03-01 05:12:30 +0000"
     },
     "done": true
   },
@@ -20279,39 +20214,483 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
-    "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-01 05:23:59 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/soul_soil": {
+  "travelersbackpack:recipes/misc/end": {
     "criteria": {
-      "has_soul_soil": "2025-03-01 05:05:36 +0000"
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
     },
     "done": true
   },
-  "adventurez:recipes/orc_skin_recipe": {
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
     "criteria": {
-      "got_the_orc_skin": "2025-03-01 04:40:47 +0000"
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-03-01 05:24:32 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_shovel": {
+    "criteria": {
+      "has_items": "2025-03-01 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced/minecraft/diamond_axe": {
+    "criteria": {
+      "has_items": "2025-03-01 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/sky_steel_ingot_from_sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/building_blocks/crafting/sky_steel_block": {
+    "criteria": {
+      "has_sky_steel_ingot": "2025-03-01 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-01 05:54:57 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-03-01 05:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-01 05:56:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-03-01 05:56:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-01 05:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-01 05:57:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-01 05:57:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-01 06:01:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 06:01:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-01 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-03-01 16:46:25 +0000"
     },
     "done": true
   },
