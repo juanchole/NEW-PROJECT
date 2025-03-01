@@ -21590,6 +21590,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-03-01 23:02:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/nak_coolant_cell_60k": {
     "criteria": {
       "has_water_coolant_cell_10k": "2025-03-01 22:12:32 +0000"
@@ -22058,6 +22064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-01 23:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-03-01 21:01:44 +0000"
@@ -22178,6 +22190,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-03-01 23:07:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-03-01 22:40:58 +0000"
@@ -22223,6 +22241,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/bronze_nugget": {
     "criteria": {
       "has_bronze_ingot": "2025-03-01 21:53:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-01 23:01:20 +0000"
     },
     "done": true
   },
@@ -22352,6 +22376,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-01 23:06:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:rubber": {
     "criteria": {
       "crit_0": "2025-03-01 21:53:54 +0000"
@@ -22367,6 +22397,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-01 23:01:20 +0000"
     },
     "done": true
   },
@@ -22415,6 +22451,12 @@
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-03-01 22:47:21 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-03-01 23:10:35 +0000"
     },
     "done": true
   },
@@ -22639,6 +22681,12 @@
       "has_tag_c_copper_ores": "2025-03-01 21:01:44 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-03-01 23:01:20 +0000"
+    },
+    "done": false
   },
   "techreborn:upgrade": {
     "criteria": {
