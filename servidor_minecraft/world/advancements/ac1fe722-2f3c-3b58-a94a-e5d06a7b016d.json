@@ -15352,7 +15352,9 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest": "2025-02-28 05:35:18 +0000"
+      "betternether:bone_reef": "2025-03-01 00:10:12 +0000",
+      "betternether:upside_down_forest": "2025-02-28 05:35:18 +0000",
+      "betternether:sulfuric_bone_reef": "2025-03-01 00:11:35 +0000"
     },
     "done": false
   },
@@ -17438,6 +17440,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-03-01 00:04:02 +0000"
@@ -17471,6 +17479,12 @@
   "modern_industrialization:steam_mining_drill": {
     "criteria": {
       "checkInv": "2025-02-28 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-03-01 00:05:57 +0000"
     },
     "done": true
   },
@@ -17510,9 +17524,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-03-01 00:13:58 +0000"
     },
     "done": true
   },
@@ -17702,6 +17728,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-03-01 00:05:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-02-28 23:04:53 +0000"
@@ -17876,6 +17914,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/yellow_garnet_dust": {
     "criteria": {
       "has_tag_c_yellow_garnet_gems": "2025-02-28 23:59:54 +0000"
@@ -17891,6 +17935,12 @@
   "techreborn:recipes/crafting_table/machine/lapotronic_su": {
     "criteria": {
       "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
     },
     "done": true
   },
@@ -17972,6 +18022,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_rubber_log_stripped": "2025-02-28 22:58:37 +0000"
@@ -18005,6 +18061,12 @@
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2025-02-28 23:27:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-03-01 00:05:57 +0000"
     },
     "done": true
   },
@@ -18170,6 +18232,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
     "criteria": {
       "has_ancient_debris": "2025-03-01 00:04:02 +0000"
@@ -18251,6 +18319,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-28 23:15:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2025-03-01 00:13:58 +0000"
     },
     "done": true
   },
