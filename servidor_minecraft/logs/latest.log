@@ -3753,3 +3753,24 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:44:36] [pool-13-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle]] from pos class_2338{x=4059, y=74, z=4619}
 [18:44:36] [pool-13-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos class_2338{x=4283, y=73, z=4587}
 [18:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[18:50:08] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[18:50:29] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18:52:08] [Server thread/INFO]: [Handshake] Sending channel query
+[18:52:09] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:52:09] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:52:09] [Server thread/INFO]: elpatomaster[/127.93.248.230:58647] logged in with entity id 129510 at (4707.116295767434, -40.0, 3299.0947329802934)
+[18:52:09] [Server thread/INFO]: Sending server config values to client
+[18:52:09] [Server thread/INFO]: Syncing config to elpatomaster (417001b8-d984-3840-974c-49ed8300b7bf)
+[18:52:09] [Server thread/INFO]: Loading config from file...
+[18:52:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:52:09] [Server thread/INFO]: elpatomaster joined the game
+[18:52:09] [Server thread/INFO]: Loading Configs for Sortilege
+[18:52:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:52:09] [Server thread/INFO]: PLAYER_JOIN
+[18:52:09] [Server thread/INFO]: add_player wand
+[18:52:09] [Server thread/INFO]: config sent
+[18:52:09] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[18:52:10] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:52:11] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[18:52:11] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[18:52:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
