@@ -18868,6 +18868,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-03-01 03:58:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2025-03-01 03:13:15 +0000"
@@ -19009,6 +19015,12 @@
   "handcrafted:recipes/misc/spruce_cupboard": {
     "criteria": {
       "has_spruce_cupboard": "2025-03-01 03:13:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_chip": {
+    "criteria": {
+      "has_iridium_ingot": "2025-03-01 04:00:10 +0000"
     },
     "done": true
   },
@@ -19189,6 +19201,12 @@
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-03-01 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/iridium_nugget": {
+    "criteria": {
+      "has_iridium_ingot": "2025-03-01 04:00:10 +0000"
     },
     "done": true
   },
@@ -19384,6 +19402,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/iridium_storage_block": {
+    "criteria": {
+      "has_iridium_ingot": "2025-03-01 04:00:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-03-01 03:13:13 +0000"
@@ -19462,6 +19486,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/iridium_plate": {
+    "criteria": {
+      "has_tag_c_iridium_ingots": "2025-03-01 04:00:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-03-01 03:13:13 +0000"
@@ -19507,6 +19537,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-03-01 03:13:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/iridium_neutron_reflector": {
+    "criteria": {
+      "has_iridium_ingot": "2025-03-01 04:00:10 +0000"
     },
     "done": true
   },

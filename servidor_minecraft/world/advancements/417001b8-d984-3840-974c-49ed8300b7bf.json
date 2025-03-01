@@ -15618,6 +15618,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-03-01 04:02:49 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
@@ -15651,6 +15657,12 @@
   "ae2:recipes/misc/network/blocks/crystal_processing_charger": {
     "criteria": {
       "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-01 04:02:49 +0000"
     },
     "done": true
   },
