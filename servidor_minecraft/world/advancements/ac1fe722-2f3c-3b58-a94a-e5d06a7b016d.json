@@ -692,10 +692,12 @@
       "minecraft:skeleton": "2025-02-26 15:46:12 +0000",
       "minecraft:vindicator": "2025-02-28 04:35:54 +0000",
       "minecraft:spider": "2025-02-26 17:15:38 +0000",
+      "minecraft:piglin_brute": "2025-03-01 00:49:46 +0000",
       "minecraft:zombified_piglin": "2025-03-01 00:17:59 +0000",
       "minecraft:witch": "2025-02-26 17:20:51 +0000",
       "minecraft:husk": "2025-02-27 03:31:37 +0000",
       "minecraft:cave_spider": "2025-02-27 04:29:22 +0000",
+      "minecraft:piglin": "2025-03-01 00:50:03 +0000",
       "minecraft:silverfish": "2025-02-26 16:26:17 +0000",
       "minecraft:enderman": "2025-02-27 04:55:01 +0000",
       "minecraft:stray": "2025-02-28 04:19:26 +0000",
@@ -18272,6 +18274,12 @@
   "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
     "criteria": {
       "has_tag_c_bronze_ingots": "2025-02-28 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-01 00:50:44 +0000"
     },
     "done": true
   },
