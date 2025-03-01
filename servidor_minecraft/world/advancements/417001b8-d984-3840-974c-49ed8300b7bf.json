@@ -17360,6 +17360,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-01 20:28:41 +0000"
@@ -17411,6 +17417,12 @@
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 20:26:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
     },
     "done": true
   },
@@ -17525,6 +17537,12 @@
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 20:26:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/villager_smithing": {
+    "criteria": {
+      "has_villager": "2025-03-01 20:57:05 +0000"
     },
     "done": true
   },
@@ -17684,6 +17702,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-01 20:20:26 +0000"
@@ -17786,6 +17810,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-01 20:20:26 +0000"
@@ -17840,6 +17870,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-03-01 20:50:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-01 20:46:14 +0000"
@@ -17867,6 +17909,12 @@
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 20:26:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2025-03-01 20:54:55 +0000"
     },
     "done": true
   },
@@ -17912,6 +17960,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-03-01 20:26:53 +0000"
@@ -17933,6 +17987,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 20:26:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
     },
     "done": true
   },
@@ -17972,6 +18038,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-01 20:46:14 +0000"
@@ -17993,6 +18065,18 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-01 20:20:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
     },
     "done": true
   },
@@ -18026,6 +18110,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-01 20:26:53 +0000"
@@ -18053,6 +18143,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-01 20:28:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2025-03-01 20:54:55 +0000"
     },
     "done": true
   },
