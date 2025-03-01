@@ -2841,6 +2841,7 @@
       "minecraft:piglin": "2025-02-26 16:06:11 +0000",
       "minecraft:silverfish": "2025-02-26 16:26:10 +0000",
       "minecraft:enderman": "2025-03-01 05:22:19 +0000",
+      "minecraft:stray": "2025-03-01 18:53:57 +0000",
       "minecraft:zombie": "2025-02-26 15:46:33 +0000"
     },
     "done": false
@@ -17136,6 +17137,48 @@
       "has_raw_gold": "2025-03-01 17:07:19 +0000"
     },
     "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-01 18:56:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-01 18:56:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-01 18:56:47 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-03-01 18:56:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
