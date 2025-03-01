@@ -15300,9 +15300,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_sword": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/upgrade_wireless_crafting_terminal": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/fluixpearl": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 03:33:30 +0000"
     },
     "done": true
   },
@@ -15330,9 +15354,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/io_condenser": {
+    "criteria": {
+      "has_dusts/fluix": "2025-03-01 03:35:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_memory_card": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
     },
     "done": true
   },
@@ -15345,6 +15381,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
     },
     "done": true
   },
@@ -15366,9 +15408,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/fluix_block": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
     "criteria": {
       "has_quartz_glass": "2025-03-01 03:25:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
     },
     "done": true
   },
@@ -15378,15 +15438,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_fluix": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/turntable": {
     "criteria": {
       "has_alt_item": "2025-03-01 03:19:57 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/advancedcard": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:ironalloyfurnace": {
     "criteria": {
       "crit_0": "2025-03-01 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/fluix_dust": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_tool": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
     },
     "done": true
   },
@@ -15414,9 +15504,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/crafting/cpu_crafting_unit": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/cell_workbench": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
     },
     "done": true
   },
@@ -15432,6 +15534,12 @@
     },
     "done": false
   },
+  "extendedae:recipes/misc/crystal_fixer": {
+    "criteria": {
+      "has_item": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
     "criteria": {
       "has_sticky_piston": "2025-03-01 03:19:57 +0000"
@@ -15444,15 +15552,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/energy_level_emitter": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_axe": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_axe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_purified_fluix_crystal": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_pickaxe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
     },
     "done": true
   },
@@ -15474,6 +15606,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_shovel": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/energy_energy_cell": {
     "criteria": {
       "has_crystals/certus": "2025-03-01 03:17:35 +0000"
@@ -15492,9 +15630,33 @@
     },
     "done": true
   },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_hoe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_charger": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 03:33:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/basiccard": {
+    "criteria": {
+      "has_calculation_processor": "2025-03-01 03:39:11 +0000"
     },
     "done": true
   },

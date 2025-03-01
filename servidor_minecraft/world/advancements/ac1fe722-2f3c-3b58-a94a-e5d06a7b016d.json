@@ -18940,6 +18940,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
+    "criteria": {
+      "has_raw_iridium": "2025-03-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern_small": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-03-01 03:03:00 +0000"
@@ -19096,6 +19102,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iridium": "2025-03-01 03:35:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-01 03:13:15 +0000"
@@ -19246,6 +19258,12 @@
     },
     "done": true
   },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea_leaves": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 03:36:13 +0000"
+    },
+    "done": true
+  },
   "betternether:cincinnasite_ore": {
     "criteria": {
       "cincinnasite_ore": "2025-03-01 03:03:00 +0000"
@@ -19255,6 +19273,12 @@
   "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2025-03-01 03:36:13 +0000"
     },
     "done": true
   },
