@@ -21392,6 +21392,30 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/fluix_sword": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/fluixpearl": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/vacuum_freezer": {
+    "criteria": {
+      "has_steel_plate": "2025-03-01 21:54:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_copper_from_copper_ore_with_sodium_persulfate": {
     "criteria": {
       "has_tag_c_copper_ores": "2025-03-01 21:01:44 +0000"
@@ -21407,6 +21431,18 @@
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-03-01 21:01:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/bronze_storage_block": {
+    "criteria": {
+      "has_bronze_ingot": "2025-03-01 21:53:59 +0000"
     },
     "done": true
   },
@@ -21458,6 +21494,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-03-01 21:53:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2025-03-01 21:01:39 +0000"
@@ -21482,9 +21524,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/fluix_block": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-03-01 21:01:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_steel_plate": "2025-03-01 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:analog_circuit": {
+    "criteria": {
+      "checkInv": "2025-03-01 21:54:59 +0000"
     },
     "done": true
   },
@@ -21494,15 +21554,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 21:27:21 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-03-01 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/fluix_dust": {
+    "criteria": {
+      "has_fluix_crystal": "2025-03-01 21:53:40 +0000"
     },
     "done": true
   },
@@ -21566,6 +21650,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing_alt": {
+    "criteria": {
+      "has_steel_plate": "2025-03-01 21:54:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 21:27:21 +0000"
@@ -21602,6 +21692,12 @@
     },
     "done": true
   },
+  "extendedae:recipes/misc/crystal_fixer": {
+    "criteria": {
+      "has_item": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-03-01 20:09:06 +0000"
@@ -21614,15 +21710,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/bronze_nugget": {
+    "criteria": {
+      "has_bronze_ingot": "2025-03-01 21:53:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_axe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-01 21:01:44 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-03-01 21:53:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/controller": {
+    "criteria": {
+      "has_purified_fluix_crystal": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/dust/marble_dust": {
     "criteria": {
       "has_diorite_dust": "2025-03-01 21:04:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_pickaxe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
     },
     "done": true
   },
@@ -21656,6 +21782,12 @@
     },
     "done": true
   },
+  "techreborn:rubber": {
+    "criteria": {
+      "crit_0": "2025-03-01 21:53:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/schist_slab": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
@@ -21671,6 +21803,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-03-01 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_shovel": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
     },
     "done": true
   },
@@ -21728,6 +21866,24 @@
     },
     "done": true
   },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/fluix_hoe": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
+    "criteria": {
+      "has_rubber": "2025-03-01 21:53:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/schist/polished_schist_bricks_from_schist_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
@@ -21761,6 +21917,12 @@
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2025-03-01 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_crystals/fluix": "2025-03-01 21:53:40 +0000"
     },
     "done": true
   },
