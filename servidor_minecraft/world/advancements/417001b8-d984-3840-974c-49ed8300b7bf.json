@@ -658,6 +658,7 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-02-27 04:29:08 +0000",
       "minecraft:birch_forest": "2025-02-26 18:08:21 +0000",
+      "minecraft:windswept_hills": "2025-03-01 19:14:29 +0000",
       "minecraft:wooded_badlands": "2025-02-26 17:29:11 +0000",
       "minecraft:badlands": "2025-02-26 17:29:09 +0000",
       "minecraft:stony_peaks": "2025-02-26 16:20:09 +0000",
@@ -17138,18 +17139,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
-    "criteria": {
-      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2025-03-01 18:59:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-01 18:56:47 +0000"
@@ -17159,12 +17148,6 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-03-01 18:56:47 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
     },
     "done": true
   },
@@ -17179,6 +17162,96 @@
       "has_snowball": "2025-03-01 18:56:47 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-01 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 19:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
