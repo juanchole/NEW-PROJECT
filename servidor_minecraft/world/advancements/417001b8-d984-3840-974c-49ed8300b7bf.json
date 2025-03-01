@@ -15708,6 +15708,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_iridium_storage_block": {
+    "criteria": {
+      "has_raw_iridium": "2025-03-01 05:12:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_planks": {
     "criteria": {
       "has_nether_reed_stem": "2025-03-01 05:01:49 +0000"
@@ -15738,9 +15744,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iridium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_iridium": "2025-03-01 05:12:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_block": {
     "criteria": {
       "has_cincinnasite": "2025-03-01 04:59:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-03-01 05:07:20 +0000"
     },
     "done": true
   },

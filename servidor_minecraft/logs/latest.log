@@ -2524,3 +2524,5 @@ BCLib - Nether BiomeSource (718b4e19)
 [05:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
 [05:07:20] [Server thread/INFO]: elpatomaster has made the advancement [Red Nether]
 [05:10:11] [Server thread/INFO]: <elpatomaster> xaero-waypoint:portal:P:641:91:430:8:false:0:Internal-the-nether-waypoints
+[05:13:57] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[05:15:11] [Server thread/INFO]: Juanchole10 has made the advancement [Red Nether]

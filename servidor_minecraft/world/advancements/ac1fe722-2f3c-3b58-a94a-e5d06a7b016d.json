@@ -19661,9 +19661,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
     "criteria": {
       "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -19679,9 +19691,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -19691,9 +19715,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_helmet": {
     "criteria": {
       "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-03-01 05:15:11 +0000"
     },
     "done": true
   },
@@ -19706,6 +19754,24 @@
   "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
     "criteria": {
       "has_quartz_glass": "2025-03-01 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -19727,6 +19793,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-03-01 04:36:03 +0000"
@@ -19739,15 +19811,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_ruby": "2025-03-01 04:57:36 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2025-03-01 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
@@ -19769,15 +19859,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-03-01 04:36:03 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-01 05:18:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_ruby_block": {
     "criteria": {
       "has_nether_ruby": "2025-03-01 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-03-01 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-03-01 05:20:54 +0000"
     },
     "done": true
   },
