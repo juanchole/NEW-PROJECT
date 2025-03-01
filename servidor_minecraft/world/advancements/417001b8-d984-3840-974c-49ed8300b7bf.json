@@ -586,6 +586,7 @@
       "steppe": "2025-02-27 04:29:03 +0000",
       "bayou": "2025-02-27 04:54:17 +0000",
       "sparse_rainforest": "2025-02-27 02:55:49 +0000",
+      "prismachasm": "2025-03-01 03:23:56 +0000",
       "marsh": "2025-02-27 04:44:17 +0000",
       "rocky_reef": "2025-02-27 02:53:40 +0000",
       "rocky_meadow": "2025-02-26 16:59:01 +0000",
@@ -15299,9 +15300,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-03-01 03:25:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_spade": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/energy_acceptor": {
+    "criteria": {
+      "has_energy_acceptor": "2025-03-01 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 03:25:58 +0000"
     },
     "done": true
   },
@@ -15317,15 +15342,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-03-01 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_quartz_glass": "2025-03-01 03:25:45 +0000"
     },
     "done": true
   },
@@ -15365,9 +15408,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-03-01 03:25:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2025-03-01 03:23:56 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/extractor/slime_ball_from_sticky_piston": {
     "criteria": {
       "has_sticky_piston": "2025-03-01 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 03:23:58 +0000"
     },
     "done": true
   },
@@ -15377,9 +15450,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-03-01 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_dusts/quartz": "2025-03-01 03:21:15 +0000"
     },
     "done": true
   },
@@ -15398,6 +15483,24 @@
   "ae2:recipes/misc/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2025-03-01 03:17:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_vibration_chamber": {
+    "criteria": {
+      "has_energy_acceptor": "2025-03-01 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-03-01 03:21:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/inscribers": {
+    "criteria": {
+      "has_the_recipe": "2025-03-01 03:20:54 +0000"
     },
     "done": true
   },
