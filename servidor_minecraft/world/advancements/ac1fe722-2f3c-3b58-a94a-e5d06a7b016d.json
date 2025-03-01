@@ -860,6 +860,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-01 21:20:18 +0000",
       "apple": "2025-02-26 16:08:34 +0000",
       "mutton": "2025-02-26 17:26:47 +0000",
       "bread": "2025-02-26 15:47:48 +0000",
@@ -21413,6 +21414,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_trapdoor": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-01 21:01:44 +0000"
@@ -21422,6 +21429,12 @@
   "twigs:recipes/schist/polished_schist": {
     "criteria": {
       "has_item": "2025-03-01 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
     },
     "done": true
   },
@@ -21473,6 +21486,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_slab": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-03-01 19:58:36 +0000"
@@ -21482,6 +21501,18 @@
   "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
     "criteria": {
       "has_oak_slab": "2025-03-01 20:15:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_button": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
     },
     "done": true
   },
@@ -21521,6 +21552,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_fence_gate": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-03-01 21:01:44 +0000"
@@ -21554,6 +21591,12 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-03-01 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
+    "criteria": {
+      "has_planks": "2025-03-01 21:27:21 +0000"
     },
     "done": true
   },
@@ -21605,9 +21648,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-03-01 21:01:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_door": {
+    "criteria": {
+      "has_rubber_planks": "2025-03-01 21:27:21 +0000"
     },
     "done": true
   },
