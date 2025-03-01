@@ -17186,13 +17186,31 @@
     },
     "done": true
   },
-  "lootr:1cart": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "opened_cart": "2025-03-01 19:34:32 +0000"
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-01 19:18:38 +0000"
     },
@@ -17210,18 +17228,6 @@
     },
     "done": true
   },
-  "simplyswords:soulstealer": {
-    "criteria": {
-      "requirement": "2025-03-01 19:34:54 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/diamond_plate_from_block": {
     "criteria": {
       "has_diamond_block": "2025-03-01 19:20:49 +0000"
@@ -17231,24 +17237,6 @@
   "mcda:recipes/upgrade_cores/upgrade_core_depth": {
     "criteria": {
       "has_core_specification_item": "2025-03-01 19:20:49 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-03-01 19:18:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2025-03-01 19:18:38 +0000"
     },
     "done": true
   },
@@ -17264,21 +17252,45 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
-    "criteria": {
-      "has_gunpowder": "2025-03-01 19:18:38 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-03-01 19:20:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "lootr:1cart": {
     "criteria": {
-      "has_gunpowder": "2025-03-01 19:18:38 +0000"
+      "opened_cart": "2025-03-01 19:34:32 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulstealer": {
+    "criteria": {
+      "requirement": "2025-03-01 19:34:54 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-01 19:39:47 +0000"
+    },
+    "done": false
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-03-01 19:48:21 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-03-01 19:51:49 +0000"
     },
     "done": true
   },
