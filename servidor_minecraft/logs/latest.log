@@ -291,3 +291,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:53:20] [Worker-Main-53/WARN]: Tried to access a block entity before it was created. class_2338{x=5346, y=-4, z=4575}
 [00:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
 [00:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:58:19] [Server thread/INFO]: Villager class_1646['Dallas'/68474, l='ServerLevel[world]', x=5000.31, y=64.00, z=4278.57] died, message: 'Dallas was slain by Zombie'
+[00:58:19] [Server thread/INFO]: Named entity class_1646['Dallas'/68474, l='ServerLevel[world]', x=5000.31, y=64.00, z=4278.57] died: Dallas was slain by Zombie
+[00:59:36] [Server thread/INFO]: elpatomaster has reached the goal [Is This A Forge Mod?]
+[01:02:39] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[01:02:39] [Server thread/INFO]: elpatomaster left the game
+[01:02:39] [Server thread/INFO]: remove player wand
+[01:02:39] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[01:06:32] [Server thread/INFO]: Named entity class_1641['Dallas'/71841, l='ServerLevel[world]', x=4997.63, y=64.98, z=4277.47] died: Dallas was slain by Juanchole10
+[01:06:50] [Server thread/INFO]: Villager class_1646['Jewell'/68465, l='ServerLevel[world]', x=4976.92, y=69.00, z=4325.30] died, message: 'Jewell was slain by Zombie'
+[01:06:50] [Server thread/INFO]: Named entity class_1646['Jewell'/68465, l='ServerLevel[world]', x=4976.92, y=69.00, z=4325.30] died: Jewell was slain by Zombie
+[01:07:40] [Server thread/INFO]: Villager class_1646['Perla'/68463, l='ServerLevel[world]', x=4992.08, y=71.00, z=4315.69] died, message: 'Perla was slain by Jewell'
+[01:07:40] [Server thread/INFO]: Named entity class_1646['Perla'/68463, l='ServerLevel[world]', x=4992.08, y=71.00, z=4315.69] died: Perla was slain by Jewell
