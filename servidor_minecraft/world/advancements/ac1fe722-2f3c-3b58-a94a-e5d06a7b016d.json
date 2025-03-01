@@ -21638,6 +21638,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:31:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:30:52 +0000"
+    },
+    "done": true
+  },
   "modern_industrialization:analog_circuit": {
     "criteria": {
       "checkInv": "2025-03-01 21:54:59 +0000"

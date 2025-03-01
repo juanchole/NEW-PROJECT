@@ -19310,6 +19310,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:33:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:34:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-03-01 22:33:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-03-01 21:50:38 +0000"
