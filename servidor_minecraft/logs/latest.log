@@ -3199,3 +3199,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:57:14] [Server thread/INFO]: Juanchole10 has made the advancement [Cutlass? Why would I do that?]
 [19:57:27] [Server thread/INFO]: <elpatomaster> xaero-waypoint:aca:A:4932:-42:3096:3:false:0:Internal-overworld-waypoints
 [19:58:03] [Server thread/INFO]: Juanchole10 has made the advancement [Local Brewery]
+[19:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:04:04] [Server thread/INFO]: elpatomaster has made the advancement [Bringer of Storms]
+[20:05:20] [Server thread/INFO]: Juanchole10 has made the advancement [God, Take The Wheel]
+[20:09:06] [Server thread/INFO]: Juanchole10 has made the advancement [Professional Dungeoneer]
+[20:09:06] [Server thread/INFO]: Juanchole10 has made the advancement [A Bone to Pick]
+[20:13:42] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:reckoning Entity not found: 29636
