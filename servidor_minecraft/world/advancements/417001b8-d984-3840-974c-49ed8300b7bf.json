@@ -19328,15 +19328,57 @@
     },
     "done": true
   },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2025-03-01 22:41:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-03-01 21:50:38 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/yellow_garnet_dust": {
     "criteria": {
       "has_tag_c_yellow_garnet_gems": "2025-03-01 21:50:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-01 23:00:19 +0000"
     },
     "done": true
   },
