@@ -3205,3 +3205,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:09:06] [Server thread/INFO]: Juanchole10 has made the advancement [Professional Dungeoneer]
 [20:09:06] [Server thread/INFO]: Juanchole10 has made the advancement [A Bone to Pick]
 [20:13:42] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:reckoning Entity not found: 29636
+[20:20:09] [Server thread/INFO]: Juanchole10 has made the advancement [Need A Map?]
+[20:20:09] [Server thread/INFO]: Juanchole10 has made the advancement [The Beginning of An Adventure]
+[20:25:49] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[20:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[20:27:54] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[20:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
