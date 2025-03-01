@@ -21223,6 +21223,12 @@
     },
     "done": true
   },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-03-01 18:33:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
     "criteria": {
       "has_invar_ingot": "2025-03-01 18:16:15 +0000"
