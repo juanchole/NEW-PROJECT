@@ -19319,6 +19319,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
@@ -19328,6 +19334,12 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -19352,6 +19364,12 @@
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_the_recipe": "2025-03-01 23:14:48 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -19409,6 +19427,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/launchpad": {
+    "criteria": {
+      "has_zinc_plate": "2025-03-01 23:50:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
     "criteria": {
       "has_diamond_axe": "2025-03-01 23:31:05 +0000"
@@ -19436,6 +19460,12 @@
   "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -19472,6 +19502,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_pressure_plate": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-03-01 23:52:40 +0000"
     },
     "done": true
   },
@@ -19520,6 +19556,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/brass_dust": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -19577,6 +19619,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
@@ -19601,6 +19649,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-03-01 23:47:13 +0000"
+    },
+    "done": true
+  },
   "ae2:main/compass": {
     "criteria": {
       "compass": "2025-03-01 22:41:30 +0000"
@@ -19622,6 +19676,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-03-01 23:47:13 +0000"
     },
     "done": true
   },
@@ -19727,6 +19787,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_board": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -19787,6 +19853,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-03-01 23:00:19 +0000"
@@ -19799,9 +19871,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/elevator": {
+    "criteria": {
+      "has_zinc_plate": "2025-03-01 23:50:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/yellow_garnet_dust": {
     "criteria": {
       "has_tag_c_yellow_garnet_gems": "2025-03-01 21:50:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -19979,6 +20063,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_shaft": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -20045,9 +20135,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
     "criteria": {
       "has_steel_ingot": "2025-03-01 23:00:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -20129,6 +20231,18 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_scaffolding_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
+    "criteria": {
+      "has_brass_ingot": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -20144,6 +20258,12 @@
   "estrogen:recipes/building_blocks/cookie_jar": {
     "criteria": {
       "has_zinc_nugget": "2025-03-01 23:30:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_booster": {
+    "criteria": {
+      "has_dusts/ender": "2025-03-01 23:49:28 +0000"
     },
     "done": true
   },
@@ -20165,9 +20285,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_brass_ingots_stonecutting": {
+    "criteria": {
+      "has_brass_ingots": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
@@ -20180,6 +20312,12 @@
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/brass_plate": {
+    "criteria": {
+      "has_tag_c_brass_ingots": "2025-03-01 23:49:18 +0000"
     },
     "done": true
   },
