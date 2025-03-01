@@ -2840,6 +2840,7 @@
       "minecraft:cave_spider": "2025-02-27 02:42:39 +0000",
       "minecraft:piglin": "2025-02-26 16:06:11 +0000",
       "minecraft:silverfish": "2025-02-26 16:26:10 +0000",
+      "minecraft:enderman": "2025-03-01 05:22:19 +0000",
       "minecraft:zombie": "2025-02-26 15:46:33 +0000"
     },
     "done": false
@@ -15690,6 +15691,12 @@
     },
     "done": false
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-03-01 05:26:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-03-01 04:59:54 +0000"
@@ -15705,6 +15712,18 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-01 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 05:26:15 +0000"
     },
     "done": true
   },
@@ -15732,9 +15751,39 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/polished_bloodstone_brick_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-03-01 04:55:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-03-01 05:26:44 +0000"
     },
     "done": true
   },
@@ -15810,6 +15859,24 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-01 05:26:15 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2025-03-01 05:01:49 +0000"
@@ -15825,6 +15892,12 @@
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-03-01 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-03-01 05:26:15 +0000"
     },
     "done": true
   },
