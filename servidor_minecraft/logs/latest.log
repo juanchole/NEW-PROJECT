@@ -3213,3 +3213,31 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:27:54] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [20:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [20:41:28] [Server thread/INFO]: elpatomaster has made the advancement [Hidden in the Depths]
+[21:34:59] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[21:34:59] [Server thread/INFO]: elpatomaster left the game
+[21:34:59] [Server thread/INFO]: remove player wand
+[21:34:59] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[21:35:44] [Server thread/INFO]: [Handshake] Sending channel query
+[21:35:44] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:35:44] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:35:44] [Server thread/INFO]: elpatomaster[/127.93.248.230:53927] logged in with entity id 83347 at (5150.345543388006, 70.0, 3454.7757198487184)
+[21:35:44] [Server thread/INFO]: Sending server config values to client
+[21:35:44] [Server thread/INFO]: Syncing config to elpatomaster (417001b8-d984-3840-974c-49ed8300b7bf)
+[21:35:44] [Server thread/INFO]: Loading config from file...
+[21:35:44] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:35:45] [Server thread/INFO]: elpatomaster joined the game
+[21:35:45] [Server thread/INFO]: Loading Configs for Sortilege
+[21:35:45] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:35:45] [Server thread/INFO]: PLAYER_JOIN
+[21:35:45] [Server thread/INFO]: add_player wand
+[21:35:45] [Server thread/INFO]: config sent
+[21:35:45] [Server thread/INFO]: Updating all forceload tickets for 417001b8-d984-3840-974c-49ed8300b7bf
+[21:35:52] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:35:52] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[21:35:52] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[21:35:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[21:37:19] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[21:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:37:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[21:37:31] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
