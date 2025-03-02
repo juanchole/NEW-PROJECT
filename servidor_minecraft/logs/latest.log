@@ -3110,3 +3110,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:38:40] [Server thread/INFO]: Named entity class_1646['Roman'/185, l='ServerLevel[world]', x=5145.70, y=63.00, z=3463.37] died: Roman was slain by Juanchole10
 [02:39:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [02:40:21] [Server thread/INFO]: Juanchole10 has made the advancement [Neither a Wire nor a Mill]
+[02:46:08] [Server thread/INFO]: Juanchole10 has made the advancement [Foundations]
+[02:46:51] [Server thread/ERROR]: Caught unhandled exception : [null] java.lang.NullPointerException
+[02:46:51] [Server thread/ERROR]: See JadeErrorOutput.txt for more information
+[02:48:26] [Server thread/INFO]: elpatomaster has made the advancement [Neither a Wire nor a Mill]
+[02:50:28] [Server thread/INFO]: Villager class_1646['Bertram'/173, l='ServerLevel[world]', x=5154.72, y=67.00, z=3460.67] died, message: 'Bertram was slain by Juanchole10'
+[02:50:28] [Server thread/INFO]: Named entity class_1646['Bertram'/173, l='ServerLevel[world]', x=5154.72, y=67.00, z=3460.67] died: Bertram was slain by Juanchole10
+[02:50:29] [Server thread/INFO]: Villager class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died, message: 'Rebbeca was slain by Juanchole10'
+[02:50:29] [Server thread/INFO]: Named entity class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died: Rebbeca was slain by Juanchole10

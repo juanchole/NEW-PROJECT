@@ -23259,9 +23259,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/advanced_circuit": {
+    "criteria": {
+      "has_electrum_plate": "2025-03-02 02:41:19 +0000"
+    },
+    "done": true
+  },
   "modern_industrialization:steel_machine_casing": {
     "criteria": {
       "checkInv": "2025-03-02 02:32:25 +0000"
+    },
+    "done": true
+  },
+  "indrev:machine_block": {
+    "criteria": {
+      "checkInv": "2025-03-02 02:46:08 +0000"
     },
     "done": true
   },
