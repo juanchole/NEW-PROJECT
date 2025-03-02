@@ -2851,7 +2851,8 @@
       "minecraft:silverfish": "2025-02-26 16:26:10 +0000",
       "minecraft:enderman": "2025-03-01 05:22:19 +0000",
       "minecraft:stray": "2025-03-01 18:53:57 +0000",
-      "minecraft:zombie": "2025-02-26 15:46:33 +0000"
+      "minecraft:zombie": "2025-02-26 15:46:33 +0000",
+      "minecraft:zombie_villager": "2025-03-02 03:21:14 +0000"
     },
     "done": false
   },
@@ -20718,6 +20719,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-03-02 03:26:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_candle_from_green_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20880,6 +20887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-03-02 03:25:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_terracotta_from_magenta_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20967,6 +20980,12 @@
   "techreborn:recipes/chemical_reactor/red_candle_from_magenta_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-03-02 03:26:05 +0000"
     },
     "done": true
   },
@@ -21240,6 +21259,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-03-02 03:26:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21249,6 +21274,12 @@
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-03-02 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-03-02 03:26:05 +0000"
     },
     "done": true
   },
@@ -21450,6 +21481,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-03-02 03:26:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
@@ -21471,6 +21508,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_orange_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-03-02 03:29:40 +0000"
     },
     "done": true
   },
