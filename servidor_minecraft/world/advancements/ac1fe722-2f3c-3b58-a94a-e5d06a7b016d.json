@@ -23271,6 +23271,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-02 03:09:22 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
     "criteria": {
       "has_item": "2025-03-02 02:52:29 +0000"

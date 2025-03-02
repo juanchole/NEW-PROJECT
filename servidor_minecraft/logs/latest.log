@@ -3118,3 +3118,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:50:28] [Server thread/INFO]: Named entity class_1646['Bertram'/173, l='ServerLevel[world]', x=5154.72, y=67.00, z=3460.67] died: Bertram was slain by Juanchole10
 [02:50:29] [Server thread/INFO]: Villager class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died, message: 'Rebbeca was slain by Juanchole10'
 [02:50:29] [Server thread/INFO]: Named entity class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died: Rebbeca was slain by Juanchole10
+[03:11:48] [Server thread/INFO]: Juanchole10 has made the advancement [Hot Stuff]
