@@ -3527,3 +3527,8 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:32:12] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [03:34:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [03:35:02] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[03:40:16] [Server thread/INFO]: elpatomaster has reached the goal [Tapping the Mantle]
+[03:42:28] [Server thread/INFO]: Juanchole10 has made the advancement [Basic Energy Storage]
+[03:46:09] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[03:53:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
+[03:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind

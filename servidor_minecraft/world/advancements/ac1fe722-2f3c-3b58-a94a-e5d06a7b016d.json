@@ -23565,6 +23565,12 @@
     },
     "done": true
   },
+  "indrev:lazuli_flux_container_mk1": {
+    "criteria": {
+      "checkInv": "2025-03-02 03:42:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_stained_glass_from_white_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"

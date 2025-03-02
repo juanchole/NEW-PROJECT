@@ -15813,7 +15813,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-03-01 05:01:49 +0000"
+      "got_nether_reed": "2025-03-01 05:01:49 +0000",
+      "got_anchor_tree": "2025-03-02 03:35:43 +0000"
     },
     "done": false
   },
@@ -20899,6 +20900,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-03-02 03:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
@@ -21046,6 +21053,12 @@
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2025-03-02 03:35:45 +0000"
     },
     "done": true
   },
@@ -21223,6 +21236,18 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-03-02 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-03-02 03:40:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
@@ -21268,6 +21293,12 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_log": {
+    "criteria": {
+      "has_anchor_tree_bark": "2025-03-02 03:35:43 +0000"
     },
     "done": true
   },
@@ -21361,6 +21392,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-02 03:49:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_carpet_from_white_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21424,6 +21461,12 @@
   "techreborn:recipes/chemical_reactor/red_candle_from_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-03-02 03:40:16 +0000"
     },
     "done": true
   },
