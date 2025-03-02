@@ -20720,6 +20720,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/import_bus": {
+    "criteria": {
+      "has_annihilation_core": "2025-03-02 04:12:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2025-03-02 03:26:05 +0000"
@@ -20780,6 +20786,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2025-03-02 04:08:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_candle_from_blue_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20795,6 +20807,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/compression_card": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
     },
     "done": true
   },
@@ -20828,6 +20846,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt": {
+    "criteria": {
+      "has_annihilation_core": "2025-03-02 04:12:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_terracotta_from_blue_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20849,6 +20873,18 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k": {
+    "criteria": {
+      "has_cell_component_4k": "2025-03-02 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/export_bus": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
     },
     "done": true
   },
@@ -20876,9 +20912,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2025-03-02 04:13:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/formation_plane_alt": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2025-03-02 04:13:10 +0000"
     },
     "done": true
   },
@@ -20912,6 +20966,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/cardfuzzy": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_terracotta_from_magenta_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20936,9 +20996,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2025-03-02 04:13:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/greater_energy_card_upgraded": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
     },
     "done": true
   },
@@ -20951,6 +21023,12 @@
   "ae2:recipes/misc/network/parts/terminals": {
     "criteria": {
       "has_logic_processor": "2025-03-02 04:00:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/interfaces_interface": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
     },
     "done": true
   },
@@ -21128,6 +21206,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/cardspeed": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_framed_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21140,6 +21224,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/cardinverter": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/cardenergy": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_stained_glass_from_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21149,6 +21245,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/panels_monitor": {
+    "criteria": {
+      "has_semi_dark_monitor": "2025-03-02 04:08:13 +0000"
     },
     "done": true
   },
@@ -21182,9 +21284,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/materials/carddistribution": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/hydralux_petal_block_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/crafting/greater_energy_card": {
+    "criteria": {
+      "has_advanced_card": "2025-03-02 04:10:41 +0000"
     },
     "done": true
   },
@@ -21236,6 +21350,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_candle_from_white_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21284,9 +21404,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/matter_cannon": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
+    },
+    "done": true
+  },
   "ae2:main/storage_cell": {
     "criteria": {
       "c1k": "2025-03-02 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k": {
+    "criteria": {
+      "has_cell_component_4k": "2025-03-02 04:17:13 +0000"
     },
     "done": true
   },
@@ -21311,6 +21443,12 @@
   "techreborn:recipes/chemical_reactor/purple_wool_from_blue_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/network_color_applicator": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
     },
     "done": true
   },
@@ -21344,6 +21482,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/formation_plane": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-03-02 03:26:02 +0000"
@@ -21353,6 +21497,12 @@
   "techreborn:recipes/chemical_reactor/brown_stained_glass_from_green_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/annihilation_plane_alt2": {
+    "criteria": {
+      "has_annihilation_core": "2025-03-02 04:12:49 +0000"
     },
     "done": true
   },
@@ -21464,6 +21614,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_16k_part": {
+    "criteria": {
+      "has_cell_component_4k": "2025-03-02 04:17:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_carpet_from_white_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21524,6 +21680,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/crafting/molecular_assembler": {
+    "criteria": {
+      "has_formation_core": "2025-03-02 04:12:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21545,6 +21707,18 @@
   "techreborn:recipes/chemical_reactor/red_concrete_powder_from_magenta_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_4k_storage": {
+    "criteria": {
+      "has_cell_component_4k": "2025-03-02 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_4k_storage": {
+    "criteria": {
+      "has_cell_component_4k": "2025-03-02 04:17:13 +0000"
     },
     "done": true
   },

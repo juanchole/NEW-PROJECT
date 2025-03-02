@@ -23295,6 +23295,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_8": {
+    "criteria": {
+      "has_diamond_dust": "2025-03-02 04:10:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_carpet_from_pink_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23334,6 +23340,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:fire_clay_bricks": {
+    "criteria": {
+      "checkInv": "2025-03-02 04:06:25 +0000"
     },
     "done": true
   },
@@ -23397,6 +23409,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/diamond_small_dust_from_dust": {
+    "criteria": {
+      "has_diamond_dust": "2025-03-02 04:10:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_magenta_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23424,6 +23442,12 @@
   "ae2:recipes/misc/network/cables/smart_red": {
     "criteria": {
       "has_dyes/black": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/diamond": {
+    "criteria": {
+      "has_diamond_dust": "2025-03-02 04:10:48 +0000"
     },
     "done": true
   },
@@ -23730,6 +23754,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_orange_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/diamond_plate": {
+    "criteria": {
+      "has_tag_c_diamond_dusts": "2025-03-02 04:10:48 +0000"
     },
     "done": true
   },
