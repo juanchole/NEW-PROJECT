@@ -19409,15 +19409,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -19436,6 +19454,18 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -19574,6 +19604,12 @@
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/cell_dock": {
+    "criteria": {
+      "has_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -19781,6 +19817,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 23:21:22 +0000"
@@ -19805,6 +19847,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-03-01 21:50:38 +0000"
@@ -19814,6 +19862,12 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -20045,6 +20099,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-03-01 23:11:36 +0000"
@@ -20078,6 +20138,12 @@
   "supplementaries:recipes/building_blocks/techreborn/sign_post_rubber": {
     "criteria": {
       "has_planks": "2025-03-01 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -20135,6 +20201,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-03-01 23:14:42 +0000"
@@ -20144,6 +20222,18 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -20177,6 +20267,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
@@ -20192,6 +20288,12 @@
   "copycats:recipes/misc/crafting/copycat_large_cogwheel": {
     "criteria": {
       "has_item": "2025-03-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },
@@ -20291,6 +20393,12 @@
     },
     "done": true
   },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
@@ -20300,6 +20408,12 @@
   "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-03-02 00:59:15 +0000"
     },
     "done": true
   },

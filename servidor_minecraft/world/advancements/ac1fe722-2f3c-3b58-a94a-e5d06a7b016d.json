@@ -22922,6 +22922,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
+    "criteria": {
+      "has_copper_cable": "2025-03-02 01:02:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/dust/obsidian_dust_from_small": {
     "criteria": {
       "has_obsidian_small_dust": "2025-03-02 00:24:01 +0000"
@@ -22967,6 +22973,12 @@
   "techreborn:recipes/rolling_machine/magnalium_plate": {
     "criteria": {
       "has_magnesium_dust": "2025-03-02 00:50:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:coppercable": {
+    "criteria": {
+      "crit_0": "2025-03-02 01:02:25 +0000"
     },
     "done": true
   },
