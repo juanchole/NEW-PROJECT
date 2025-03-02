@@ -622,6 +622,7 @@
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
+      "hyacinth_deeps": "2025-03-02 05:05:10 +0000",
       "icy_heights": "2025-03-02 04:46:00 +0000",
       "rainforest": "2025-02-26 17:16:45 +0000",
       "lupine_plains": "2025-02-26 05:03:09 +0000"
@@ -667,6 +668,7 @@
       "grassland": "2025-02-26 16:16:29 +0000",
       "prairie": "2025-02-26 16:17:27 +0000",
       "redwoods": "2025-02-26 15:45:59 +0000",
+      "hyacinth_deeps": "2025-03-02 05:05:10 +0000",
       "icy_heights": "2025-03-02 04:46:00 +0000",
       "rainforest": "2025-02-26 17:16:45 +0000",
       "lupine_plains": "2025-02-26 05:03:09 +0000"
@@ -20811,6 +20813,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-02 04:58:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
@@ -21045,6 +21053,12 @@
     },
     "done": true
   },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-03-02 04:58:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_pink_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21054,6 +21068,12 @@
   "ae2:recipes/misc/network/parts/terminals": {
     "criteria": {
       "has_logic_processor": "2025-03-02 04:00:38 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-02 04:58:49 +0000"
     },
     "done": true
   },
@@ -21132,6 +21152,12 @@
   "ae2:recipes/misc/materials/annihilationcore": {
     "criteria": {
       "has_logic_processor": "2025-03-02 04:00:38 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-03-02 04:58:49 +0000"
     },
     "done": true
   },
@@ -21246,6 +21272,12 @@
   "betternether:recipes/building_blocks/quartz_glass_framed_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/vacuum_freezer/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-03-02 05:00:49 +0000"
     },
     "done": true
   },
@@ -21627,6 +21659,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/decorations/ice_pane": {
+    "criteria": {
+      "has_ice": "2025-03-02 05:00:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_concrete_powder_from_white_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21735,6 +21773,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-03-02 04:58:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_concrete_powder_from_magenta_concrete_powder_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21768,6 +21812,12 @@
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-03-02 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-03-02 05:00:49 +0000"
     },
     "done": true
   },

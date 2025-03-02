@@ -4166,3 +4166,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:57:35] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1075, y=237, z=6713}
 [04:57:40] [pool-13-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa]] from pos class_2338{x=-901, y=73, z=6715}
 [04:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[04:58:48] [Server thread/INFO]: elpatomaster has completed the challenge [Expansion Unlock: Void's Invasion]
+[04:58:48] [Server thread/INFO]: Juanchole10 has completed the challenge [Expansion Unlock: Void's Invasion]
+[04:58:48] [Server thread/INFO]: elpatomaster has completed the challenge [Night Vanquisher]
+[05:00:45] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.2522616619478413
+[05:00:45] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 0.639122671040468
+[05:00:45] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 1.0949759937677754
+[05:00:45] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 1.338894018024348
+[05:00:45] [Server thread/WARN]: Żar-ptak (vehicle of elpatomaster) moved wrongly! 1.4694096896032534
+[05:03:43] [Server thread/INFO]: Juanchole10 has made the advancement [Wake Up!]
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 0.29739717649636077
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 0.3038291553398267
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 0.3102666187030536
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 0.816557433718117
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 1.3227697801260092
+[05:04:48] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 1.5
+[05:06:13] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 0.5112826698841673
+[05:06:14] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 1.1264740452261321
+[05:06:14] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 1.6914297932371483
+[05:06:14] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 2.2295054586538754
+[05:06:14] [Server thread/WARN]: Żar-ptak (vehicle of Juanchole10) moved wrongly! 2.7531007343977763

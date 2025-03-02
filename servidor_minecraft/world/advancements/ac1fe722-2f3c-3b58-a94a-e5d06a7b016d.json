@@ -646,6 +646,7 @@
       "prairie": "2025-02-26 16:17:27 +0000",
       "gravel_beach": "2025-03-01 17:37:03 +0000",
       "redwoods": "2025-02-26 17:02:24 +0000",
+      "hyacinth_deeps": "2025-03-02 05:03:28 +0000",
       "icy_heights": "2025-03-02 04:44:33 +0000",
       "rainforest": "2025-02-26 17:06:55 +0000",
       "lupine_plains": "2025-02-26 15:41:36 +0000"
@@ -690,6 +691,7 @@
       "prairie": "2025-02-26 16:17:27 +0000",
       "gravel_beach": "2025-03-01 17:37:03 +0000",
       "redwoods": "2025-02-26 17:02:24 +0000",
+      "hyacinth_deeps": "2025-03-02 05:03:28 +0000",
       "icy_heights": "2025-03-02 04:44:33 +0000",
       "rainforest": "2025-02-26 17:06:55 +0000",
       "lupine_plains": "2025-02-26 15:41:36 +0000"
@@ -23278,6 +23280,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_wool_from_pink_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23356,6 +23364,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23398,6 +23412,12 @@
     },
     "done": true
   },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-03-02 04:58:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_candle_from_pink_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23419,6 +23439,12 @@
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-03-02 05:03:43 +0000"
     },
     "done": true
   },
@@ -23494,6 +23520,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23542,6 +23574,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_candle_from_white_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23581,6 +23619,12 @@
   "modern_industrialization:bronze_macerator": {
     "criteria": {
       "checkInv": "2025-03-02 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
     },
     "done": true
   },
@@ -23632,6 +23676,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "indrev:lazuli_flux_container_mk1": {
     "criteria": {
       "checkInv": "2025-03-02 03:42:28 +0000"
@@ -23665,6 +23715,12 @@
   "techreborn:recipes/chemical_reactor/red_stained_glass_pane_from_magenta_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
     },
     "done": true
   },
@@ -23710,6 +23766,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_stained_glass_from_blue_stained_glass_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23749,6 +23811,18 @@
   "techreborn:recipes/chemical_reactor/red_candle_from_candle_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-02 05:03:50 +0000"
     },
     "done": true
   },
