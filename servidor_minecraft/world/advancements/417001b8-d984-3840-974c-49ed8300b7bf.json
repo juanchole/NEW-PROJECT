@@ -19505,6 +19505,12 @@
     },
     "done": true
   },
+  "techreborn:ultimatesolar": {
+    "criteria": {
+      "crit_0": "2025-03-02 00:15:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-03-01 23:52:40 +0000"
@@ -19544,6 +19550,12 @@
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-03-01 23:25:19 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-02 00:07:22 +0000"
     },
     "done": true
   },
@@ -20024,6 +20036,12 @@
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/quantum_solar_panel": {
+    "criteria": {
+      "has_ultimate_solar_panel": "2025-03-02 00:15:04 +0000"
     },
     "done": true
   },
