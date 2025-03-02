@@ -22910,11 +22910,35 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/dust/obsidian_dust_from_small": {
+    "criteria": {
+      "has_obsidian_small_dust": "2025-03-02 00:24:01 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-03-02 00:13:04 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/compressor/obsidian_plate": {
+    "criteria": {
+      "has_tag_c_obsidian_dusts": "2025-03-02 00:23:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/dust/basalt_dust": {
+    "criteria": {
+      "has_obsidian_small_dust": "2025-03-02 00:24:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/obsidian_small_dust_from_dust": {
+    "criteria": {
+      "has_the_recipe": "2025-03-02 00:24:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
