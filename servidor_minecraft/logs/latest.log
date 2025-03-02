@@ -4193,3 +4193,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [05:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [05:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05:20:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8072ms or 161 ticks behind
+[05:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05:26:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
+[05:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16666ms or 333 ticks behind
+[05:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[05:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[05:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26581ms or 531 ticks behind
+[05:30:33] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[05:30:38] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[05:30:38] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[05:30:40] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/NEW-PROJECT/servidor_minecraft/./crash-reports/crash-2025-03-02_05.30.40-server.txt

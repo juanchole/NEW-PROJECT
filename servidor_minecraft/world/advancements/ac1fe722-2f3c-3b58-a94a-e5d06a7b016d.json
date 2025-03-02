@@ -21319,7 +21319,8 @@
   },
   "betternether:nether_wood": {
     "criteria": {
-      "got_crimson": "2025-03-01 19:00:59 +0000"
+      "got_crimson": "2025-03-01 19:00:59 +0000",
+      "got_anchor_tree": "2025-03-02 05:27:14 +0000"
     },
     "done": false
   },
@@ -23496,6 +23497,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2025-03-02 05:27:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/brown_terracotta_from_green_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23679,6 +23686,12 @@
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-03-02 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_log": {
+    "criteria": {
+      "has_anchor_tree_bark": "2025-03-02 05:27:14 +0000"
     },
     "done": true
   },
