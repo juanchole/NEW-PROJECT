@@ -23343,6 +23343,12 @@
     },
     "done": true
   },
+  "indrev:pulverizer": {
+    "criteria": {
+      "checkInv": "2025-03-02 03:59:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/pink_stained_glass_pane_from_white_stained_glass_pane_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
@@ -23529,9 +23535,21 @@
     },
     "done": true
   },
+  "modern_industrialization:bronze_macerator": {
+    "criteria": {
+      "checkInv": "2025-03-02 04:04:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/purple_wool_from_blue_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 03:11:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/ingot/bronze_ingot_from_nugget": {
+    "criteria": {
+      "has_bronze_nugget": "2025-03-02 04:05:01 +0000"
     },
     "done": true
   },

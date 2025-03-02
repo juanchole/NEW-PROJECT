@@ -20756,6 +20756,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/crafting/mega_crafting_unit": {
+    "criteria": {
+      "has_logic_processor": "2025-03-02 04:00:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
@@ -20789,6 +20795,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-03-02 04:00:46 +0000"
     },
     "done": true
   },
@@ -20855,6 +20867,12 @@
   "betternether:recipes/building_blocks/quartz_glass_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-03-02 04:00:46 +0000"
     },
     "done": true
   },
@@ -20930,6 +20948,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2025-03-02 04:00:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/red_wool_from_orange_wool_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -20993,6 +21017,12 @@
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-03-02 03:26:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-03-02 04:00:38 +0000"
     },
     "done": true
   },
@@ -21128,6 +21158,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-03-02 04:00:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern_red": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
@@ -21173,6 +21209,12 @@
   "techreborn:recipes/chemical_reactor/red_carpet_from_magenta_carpet_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2025-03-02 04:00:38 +0000"
     },
     "done": true
   },
@@ -21242,6 +21284,18 @@
     },
     "done": true
   },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-03-02 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-03-02 04:00:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-03-02 03:40:07 +0000"
@@ -21281,6 +21335,12 @@
   "techreborn:recipes/chemical_reactor/red_terracotta_from_orange_terracotta_with_red_dye": {
     "criteria": {
       "has_red_dye": "2025-03-02 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
+    "criteria": {
+      "has_cell_component_1k": "2025-03-02 04:00:46 +0000"
     },
     "done": true
   },
@@ -21329,6 +21389,12 @@
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-02 03:07:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2025-03-02 04:00:38 +0000"
     },
     "done": true
   },

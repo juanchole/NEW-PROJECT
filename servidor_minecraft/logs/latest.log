@@ -3532,3 +3532,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:46:09] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
 [03:53:03] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Juanchole10 accepted server config.
 [03:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[03:56:24] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[03:59:48] [Server thread/INFO]: Juanchole10 has made the advancement [It's Getting Dusty]
+[04:02:18] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[04:04:10] [Server thread/INFO]: Juanchole10 has made the advancement [Ore Hemiquadrupling]
