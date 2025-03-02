@@ -23271,6 +23271,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-03-02 02:52:29 +0000"
+    },
+    "done": true
+  },
   "indrev:machine_block": {
     "criteria": {
       "checkInv": "2025-03-02 02:46:08 +0000"
