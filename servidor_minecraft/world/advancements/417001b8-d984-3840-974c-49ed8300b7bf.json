@@ -19343,6 +19343,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-03-01 23:49:18 +0000"
@@ -19577,6 +19583,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/brass_dust": {
     "criteria": {
       "has_tag_c_brass_ingots": "2025-03-01 23:49:18 +0000"
@@ -19691,6 +19703,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
@@ -19766,6 +19784,12 @@
   "techreborn:recipes/crafting_table/misc_block/rubber_fence": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
     },
     "done": true
   },
@@ -19847,6 +19871,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_beam": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -19868,6 +19898,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
     },
     "done": true
   },
@@ -19952,6 +19988,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/wire_mill": {
+    "criteria": {
+      "has_extractor": "2025-03-02 00:39:08 +0000"
     },
     "done": true
   },
@@ -20045,6 +20087,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/carbon_mesh": {
+    "criteria": {
+      "has_carbon_fiber": "2025-03-02 00:35:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_rubber_log_stripped": "2025-03-01 23:31:47 +0000"
@@ -20123,6 +20171,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_stair": {
     "criteria": {
       "has_rubber_planks": "2025-03-01 23:21:22 +0000"
@@ -20159,6 +20213,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/carbon_plate": {
+    "criteria": {
+      "has_carbon_mesh": "2025-03-02 00:36:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/electronic_circuit": {
     "criteria": {
       "has_copper_plate": "2025-03-01 23:35:44 +0000"
@@ -20186,6 +20246,12 @@
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
     },
     "done": true
   },
@@ -20237,6 +20303,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
@@ -20264,6 +20342,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-01 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:industrialcentrifuge": {
+    "criteria": {
+      "crit_0": "2025-03-02 00:39:55 +0000"
     },
     "done": true
   },

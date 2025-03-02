@@ -22910,6 +22910,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/dust/obsidian_dust_from_small": {
     "criteria": {
       "has_obsidian_small_dust": "2025-03-02 00:24:01 +0000"
@@ -22946,9 +22952,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-03-02 00:38:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:52 +0000"
     },
     "done": true
   },
@@ -22958,15 +22976,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2025-03-02 00:35:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/dust/basalt_dust": {
     "criteria": {
       "has_obsidian_small_dust": "2025-03-02 00:24:01 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-03-02 00:38:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lithium_ion_battery": {
     "criteria": {
       "has_aluminium_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:industrialcentrifuge": {
+    "criteria": {
+      "crit_0": "2025-03-02 00:39:20 +0000"
     },
     "done": true
   },

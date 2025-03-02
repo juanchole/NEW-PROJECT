@@ -552,3 +552,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [00:32:15] [Server thread/INFO]: Juanchole10 has made the advancement [Flatten]
+[00:38:55] [Server thread/INFO]: Juanchole10 has made the advancement [Tapping Time]
+[00:39:20] [Server thread/INFO]: Juanchole10 has reached the goal [Round And Round It Goes]
+[00:39:55] [Server thread/INFO]: elpatomaster has reached the goal [Round And Round It Goes]
