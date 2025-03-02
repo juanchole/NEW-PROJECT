@@ -23253,5 +23253,17 @@
     },
     "done": true
   },
+  "modern_industrialization:steel_wiremill": {
+    "criteria": {
+      "checkInv": "2025-03-02 02:40:21 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:steel_machine_casing": {
+    "criteria": {
+      "checkInv": "2025-03-02 02:32:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

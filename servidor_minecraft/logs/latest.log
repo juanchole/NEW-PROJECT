@@ -3077,3 +3077,36 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [02:21:33] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[02:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[02:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[02:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[02:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[02:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[02:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[02:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[02:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[02:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[02:28:30] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:28:41] [Server thread/INFO]: Villager class_1646['Enda'/170, l='ServerLevel[world]', x=5127.88, y=69.00, z=3475.63] died, message: 'Enda was slain by Juanchole10'
+[02:28:41] [Server thread/INFO]: Named entity class_1646['Enda'/170, l='ServerLevel[world]', x=5127.88, y=69.00, z=3475.63] died: Enda was slain by Juanchole10
+[02:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7966ms or 159 ticks behind
+[02:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4981ms or 99 ticks behind
+[02:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3671ms or 73 ticks behind
+[02:29:41] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:32:25] [Server thread/INFO]: Juanchole10 has reached the goal [Cooked Uncooked Steel!]
+[02:36:33] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:36:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:37:09] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:38:37] [Server thread/INFO]: Villager class_1646['Tracy'/184, l='ServerLevel[world]', x=5136.68, y=63.00, z=3454.49] died, message: 'Tracy was slain by Juanchole10'
+[02:38:37] [Server thread/INFO]: Named entity class_1646['Tracy'/184, l='ServerLevel[world]', x=5136.68, y=63.00, z=3454.49] died: Tracy was slain by Juanchole10
+[02:38:40] [Server thread/INFO]: Villager class_1646['Roman'/185, l='ServerLevel[world]', x=5145.70, y=63.00, z=3463.37] died, message: 'Roman was slain by Juanchole10'
+[02:38:40] [Server thread/INFO]: Named entity class_1646['Roman'/185, l='ServerLevel[world]', x=5145.70, y=63.00, z=3463.37] died: Roman was slain by Juanchole10
+[02:39:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[02:40:21] [Server thread/INFO]: Juanchole10 has made the advancement [Neither a Wire nor a Mill]

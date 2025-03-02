@@ -20717,5 +20717,17 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
+    "criteria": {
+      "has_cauldron": "2025-03-02 02:26:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/witch_cauldron": {
+    "criteria": {
+      "has_item": "2025-03-02 02:26:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
