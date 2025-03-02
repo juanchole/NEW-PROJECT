@@ -22922,6 +22922,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate_from_block": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lamp_incandescent": {
     "criteria": {
       "has_copper_cable": "2025-03-02 01:02:25 +0000"
@@ -22940,6 +22952,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-03-02 00:13:04 +0000"
@@ -22949,6 +22967,18 @@
   "techreborn:rollingmachine": {
     "criteria": {
       "crit_0": "2025-03-02 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_grinder": {
+    "criteria": {
+      "has_industrial_electrolyzer": "2025-03-02 01:09:37 +0000"
     },
     "done": true
   },
@@ -22988,6 +23018,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2025-03-02 01:06:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
     "criteria": {
       "has_treetap": "2025-03-02 00:38:55 +0000"
@@ -23000,9 +23042,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
     "criteria": {
       "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cell": {
+    "criteria": {
+      "has_cell": "2025-03-02 01:12:50 +0000"
     },
     "done": true
   },
@@ -23012,9 +23072,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/marble_dust": {
     "criteria": {
       "has_marble_dust": "2025-03-02 00:47:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/ingot/refined_iron_ingot_from_block": {
+    "criteria": {
+      "has_refined_iron_storage_block": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/wire_mill": {
+    "criteria": {
+      "has_extractor": "2025-03-02 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2025-03-02 01:06:10 +0000"
     },
     "done": true
   },
@@ -23030,15 +23114,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/compressed_air_cell": {
+    "criteria": {
+      "has_cell": "2025-03-02 01:12:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/calcite_small_dust_from_dust": {
     "criteria": {
       "has_calcite_dust": "2025-03-02 00:55:38 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_slab": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2025-03-02 01:06:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/obsidian_plate": {
     "criteria": {
       "has_tag_c_obsidian_dusts": "2025-03-02 00:23:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_cupronickel_heating_coil": "2025-03-02 01:06:10 +0000"
     },
     "done": true
   },
@@ -23057,6 +23177,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
     "criteria": {
       "has_coal_dust": "2025-03-02 00:35:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
     },
     "done": true
   },
@@ -23079,6 +23205,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2025-03-02 01:06:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-03-02 01:08:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:industrialcentrifuge": {
     "criteria": {
       "crit_0": "2025-03-02 00:39:20 +0000"
@@ -23088,6 +23232,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/magnesium_small_dust_from_dust": {
     "criteria": {
       "has_magnesium_dust": "2025-03-02 00:50:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_blocks_wall": {
+    "criteria": {
+      "has_tag_c_refined_iron_blocks": "2025-03-02 01:08:10 +0000"
     },
     "done": true
   },

@@ -19415,9 +19415,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
     },
     "done": true
   },
@@ -19436,6 +19448,12 @@
   "ae2:recipes/misc/network/parts/toggle_bus": {
     "criteria": {
       "has_glass_cable": "2025-03-02 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
     },
     "done": true
   },
@@ -19547,6 +19565,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:ultimatesolar": {
     "criteria": {
       "crit_0": "2025-03-02 00:15:10 +0000"
@@ -19556,6 +19586,12 @@
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-03-01 23:52:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
     },
     "done": true
   },
@@ -19574,6 +19610,18 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
     },
     "done": true
   },
@@ -19649,6 +19697,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -19670,6 +19724,12 @@
   "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
     },
     "done": true
   },
@@ -19712,6 +19772,12 @@
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2025-03-02 01:14:29 +0000"
     },
     "done": true
   },
@@ -19949,6 +20015,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
@@ -20000,6 +20072,12 @@
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-03-01 23:49:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
     },
     "done": true
   },
@@ -20159,6 +20237,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/carbon_mesh": {
     "criteria": {
       "has_carbon_fiber": "2025-03-02 00:35:46 +0000"
@@ -20261,6 +20345,12 @@
     },
     "done": true
   },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-03-02 01:16:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
@@ -20354,6 +20444,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
     },
     "done": true
   },
@@ -20459,9 +20555,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2025-03-02 01:14:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
     "criteria": {
       "has_sphalerite_dust": "2025-03-01 21:50:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-02 01:16:50 +0000"
     },
     "done": true
   },
@@ -20594,6 +20702,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2025-03-02 01:14:36 +0000"
     },
     "done": true
   },
