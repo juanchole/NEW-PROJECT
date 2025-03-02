@@ -3119,3 +3119,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:50:29] [Server thread/INFO]: Villager class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died, message: 'Rebbeca was slain by Juanchole10'
 [02:50:29] [Server thread/INFO]: Named entity class_1646['Rebbeca'/172, l='ServerLevel[world]', x=5159.15, y=67.00, z=3466.12] died: Rebbeca was slain by Juanchole10
 [03:11:48] [Server thread/INFO]: Juanchole10 has made the advancement [Hot Stuff]
+[03:18:51] [Server thread/INFO]: Villager class_1646['Marie'/277, l='ServerLevel[world]', x=5128.90, y=70.00, z=3468.48] died, message: 'Marie was slain by Zombie'
+[03:18:51] [Server thread/INFO]: Named entity class_1646['Marie'/277, l='ServerLevel[world]', x=5128.90, y=70.00, z=3468.48] died: Marie was slain by Zombie
+[03:21:14] [Server thread/INFO]: Named entity class_1641['Marie'/12553, l='ServerLevel[world]', x=5128.90, y=70.00, z=3468.58] died: Marie was slain by elpatomaster
