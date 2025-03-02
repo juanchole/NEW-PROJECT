@@ -22916,11 +22916,41 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/semi_fluid_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-03-02 00:13:04 +0000"
     },
     "done": false
+  },
+  "techreborn:rollingmachine": {
+    "criteria": {
+      "crit_0": "2025-03-02 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/gas_turbine_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/compressor/obsidian_plate": {
     "criteria": {
@@ -22934,9 +22964,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lithium_ion_battery": {
+    "criteria": {
+      "has_aluminium_plate": "2025-03-02 00:31:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/obsidian_small_dust_from_dust": {
     "criteria": {
       "has_the_recipe": "2025-03-02 00:24:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/diesel_generator_alt": {
+    "criteria": {
+      "has_aluminum_plate": "2025-03-02 00:31:17 +0000"
     },
     "done": true
   },

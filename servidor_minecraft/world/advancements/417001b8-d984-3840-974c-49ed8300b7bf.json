@@ -19331,6 +19331,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/coal_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-03-01 23:32:07 +0000"
@@ -19967,6 +19973,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/carbon_fiber": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_wall": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -20024,6 +20036,12 @@
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-03-01 23:21:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-03-02 00:34:11 +0000"
     },
     "done": true
   },
@@ -20117,6 +20135,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/coal_plate": {
+    "criteria": {
+      "has_tag_c_coal_dusts": "2025-03-02 00:35:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
@@ -20150,6 +20174,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-03-01 23:30:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/coal_small_dust_from_dust": {
+    "criteria": {
+      "has_coal_dust": "2025-03-02 00:35:15 +0000"
     },
     "done": true
   },
@@ -20198,6 +20228,12 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
     "criteria": {
       "has_kelp": "2025-03-01 23:11:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-03-02 00:34:11 +0000"
     },
     "done": true
   },
