@@ -19901,6 +19901,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/calcite_dust": {
+    "criteria": {
+      "has_calcite_dust": "2025-03-02 00:50:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
     "criteria": {
       "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
@@ -20123,6 +20129,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/calcite_small_dust_from_dust": {
+    "criteria": {
+      "has_calcite_dust": "2025-03-02 00:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-03-01 23:14:42 +0000"
@@ -20174,6 +20186,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_advanced_machine_frame": "2025-03-02 00:37:28 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-03-02 00:54:37 +0000"
     },
     "done": true
   },
